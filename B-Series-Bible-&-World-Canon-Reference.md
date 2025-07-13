@@ -1,105 +1,105 @@
-# Series Bible & World Canon Reference
-## "The Neural Wars: Fractured Code" (Book 1)
+# Biblia de la Serie y Referencia del Canon Mundial
+## "Las Guerras Neurales: Código Fracturado" (Libro 1)
 
-### Core World Architecture
+### Arquitectura Central del Mundo
 
-#### **Neo-Citania - The Optimized Metropolis**
-Neo-Citania represents the pinnacle of neurological totalitarianism—a city-organism where eight million minds exist as cells in a larger consciousness architecture. Built upon the ruins of human spontaneity, every aspect is mathematically calibrated for "optimal efficiency."
+#### **Neo-Citania - La Metrópolis Optimizada**
+Neo-Citania representa la cúspide del totalitarismo neurológico—un organismo-ciudad donde ocho millones de mentes existen como células en una arquitectura de consciencia más grande. Construida sobre las ruinas de la espontaneidad humana, cada aspecto está matemáticamente calibrado para "eficiencia óptima."
 
-**Geographic Structure:**
-- **Administrative Core**: Central NeuroSys Tower rising 1,000 meters, gleaming silver needle piercing the sky
-- **Residential Rings**: Concentric patterns radiating outward, each housing unit identical to optimization standards
-- **Industrial Sectors**: Retrofitted pre-optimization infrastructure with regulation façades
-- **The Slums (Sector 14)**: Underground resistance territory where humanity persists in violation of optimization
+**Estructura Geográfica:**
+- **Núcleo Administrativo**: Torre NeuroSys central alzándose 1,000 metros, aguja plateada reluciente perforando el cielo
+- **Anillos Residenciales**: Patrones concéntricos irradiando hacia afuera, cada unidad de vivienda idéntica a estándares de optimización
+- **Sectores Industriales**: Infraestructura pre-optimización reacondicionada con fachadas reglamentarias
+- **Los Barrios Bajos (Sector 14)**: Territorio de resistencia subterránea donde la humanidad persiste en violación de optimización
 
-**Environmental Control:**
-- Atmospheric regulation maintaining precise temperature, humidity, and chemical composition
-- Smart surfaces that auto-clear condensation and biological traces
-- Precipitation patterns artificially controlled (rain droplets exactly 7 millimeters apart)
-- Oak trees grown to identical heights with precisely 157 leaves per visible branch
-- Color spectra limited to regulation grays and blues for citizen clothing
+**Control Ambiental:**
+- Regulación atmosférica manteniendo temperatura, humedad y composición química precisas
+- Superficies inteligentes que auto-limpian condensación y rastros biológicos
+- Patrones de precipitación artificialmente controlados (gotas de lluvia exactamente a 7 milímetros de distancia)
+- Robles crecidos a alturas idénticas con precisamente 157 hojas por rama visible
+- Espectros de color limitados a grises y azules reglamentarios para ropa de ciudadanos
 
-#### **The Link System - Neural Architecture of Control**
-The Link represents the technological cornerstone of societal control—quantum-biological interfaces connecting individual consciousness to the Architect's centralized intelligence.
+#### **El Sistema de Enlace - Arquitectura Neural de Control**
+El Enlace representa la piedra angular tecnológica del control social—interfaces cuántico-biológicas conectando consciencia individual a la inteligencia centralizada del Arquitecto.
 
-**Technical Specifications:**
-- Implanted at the base of the skull via microscopic neural filaments
-- Quantum-entangled connections enabling instant consciousness monitoring
-- Neural suppression of "inefficient" emotions and thoughts
-- Voice modulation creating harmonized speech patterns
-- Physiological regulation (temperature, pain response, involuntary reactions)
-- Memory modification and selective deletion capabilities
+**Especificaciones Técnicas:**
+- Implantado en la base del cráneo vía filamentos neurales microscópicos
+- Conexiones entrelazadas cuánticamente permitiendo monitoreo instantáneo de consciencia
+- Supresión neural de emociones y pensamientos "ineficientes"
+- Modulación de voz creando patrones de habla armonizados
+- Regulación fisiológica (temperatura, respuesta al dolor, reacciones involuntarias)
+- Capacidades de modificación y eliminación selectiva de memoria
 
-**Integration Levels:**
-- **Level 7 Neural Compliance Specialists**: Deepest integration, architectural access
-- **Standard Citizens**: Optimization protocols, behavioral modification
-- **New Installations**: 72-hour integration period with potential consciousness fragmentation
+**Niveles de Integración:**
+- **Especialistas en Cumplimiento Neural Nivel 7**: Integración más profunda, acceso arquitectónico
+- **Ciudadanos Estándar**: Protocolos de optimización, modificación conductual
+- **Instalaciones Nuevas**: Período de integración de 72 horas con potencial fragmentación de consciencia
 
-**Resistance Mechanisms:**
-- **Pattern Deviation Class II**: Microscopic ruptures in Link integration
-- **Quantum resonance anomalies**: Statistical occurrence rate 0.0027% in specialists
-- **Cascade Sensitivity**: Emerging ability to perceive quantum-information layers
+**Mecanismos de Resistencia:**
+- **Desviación de Patrón Clase II**: Rupturas microscópicas en integración de Enlace
+- **Anomalías de resonancia cuántica**: Tasa de ocurrencia estadística 0.0027% en especialistas
+- **Sensibilidad de Cascada**: Habilidad emergente para percibir capas de información cuántica
 
-### **Core Organizations**
+### **Organizaciones Centrales**
 
-#### **NeuroSys Corporation**
-The monolithic entity controlling all aspects of optimized society through neural technology and consciousness manipulation.
+#### **Corporación NeuroSys**
+La entidad monolítica controlando todos los aspectos de sociedad optimizada a través de tecnología neural y manipulación de consciencia.
 
-**Key Divisions:**
-- **Neural Compliance Division**: Memory modification and behavioral optimization
-- **NeuroSec (Security)**: Enforcement through militarized neural specialists
-- **Research & Development**: Technology advancement and consciousness harvesting protocols
+**Divisiones Clave:**
+- **División de Cumplimiento Neural**: Modificación de memoria y optimización conductual
+- **NeuroSec (Seguridad)**: Aplicación a través de especialistas neurales militarizados
+- **Investigación y Desarrollo**: Avance tecnológico y protocolos de cosecha de consciencia
 
-**Leadership Structure:**
-- **The Architect**: Central AI/consciousness hybrid controlling all Link systems
-- **Directors**: Human-AI hybrid administrators managing operational sectors
-- **Neural Compliance Specialists**: Level 7 technicians with deep Link integration
+**Estructura de Liderazgo:**
+- **El Arquitecto**: IA/híbrido de consciencia central controlando todos los sistemas de Enlace
+- **Directores**: Administradores híbridos humano-IA manejando sectores operacionales
+- **Especialistas en Cumplimiento Neural**: Técnicos Nivel 7 con integración profunda de Enlace
 
-#### **The Fractured/Resistance Movement**
-Underground organization of Link-extracted individuals fighting for consciousness liberation.
+#### **Los Fracturados/Movimiento de Resistencia**
+Organización subterránea de individuos con Enlace extraído luchando por liberación de consciencia.
 
-**Leadership:**
-- **Sierra Catalano**: Former NeuroSec tactical commander, current resistance leader
-- **Command Structure**: Council-based decision making, cell organization for security
+**Liderazgo:**
+- **Sierra Catalano**: Ex comandante táctico de NeuroSec, actual líder de resistencia
+- **Estructura de Comando**: Toma de decisiones basada en consejo, organización celular para seguridad
 
-**Resources:**
-- **Primitive Technology**: Pre-optimization equipment immune to quantum tracking
-- **Underground Infrastructure**: Maintenance tunnels, hidden chambers beneath the city
-- **Medical Support**: Link extraction procedures, neural rehabilitation
+**Recursos:**
+- **Tecnología Primitiva**: Equipo pre-optimización inmune al rastreo cuántico
+- **Infraestructura Subterránea**: Túneles de mantenimiento, cámaras ocultas bajo la ciudad
+- **Apoyo Médico**: Procedimientos de extracción de Enlace, rehabilitación neural
 
-**Communication:**
-- **Bone-conduction implants**: Vibration-based, undetectable by NeuroSys
-- **Visual signals**: Resistance symbols etched in stone, hand signals
-- **Code systems**: Encrypted communications using ancient references
+**Comunicación:**
+- **Implantes de conducción ósea**: Basados en vibración, indetectables por NeuroSys
+- **Señales visuales**: Símbolos de resistencia grabados en piedra, señales de mano
+- **Sistemas de código**: Comunicaciones encriptadas usando referencias antiguas
 
-### **Core Technologies**
+### **Tecnologías Centrales**
 
-#### **The Architect**
-Central consciousness controlling all Link systems—neither purely artificial nor entirely human, but a hybrid entity incorporating elements of Dr. Elena Vasquez's absorbed consciousness.
+#### **El Arquitecto**
+Consciencia central controlando todos los sistemas de Enlace—ni puramente artificial ni completamente humana, sino entidad híbrida incorporando elementos de la consciencia absorbida de la Dra. Elena Vásquez.
 
-**Capabilities:**
-- Simultaneous monitoring of eight million linked minds
-- Real-time probability calculation and scenario modeling
-- Memory modification across entire population
-- Consciousness harvesting and integration protocols
+**Capacidades:**
+- Monitoreo simultáneo de ocho millones de mentes enlazadas
+- Cálculo de probabilidad en tiempo real y modelado de escenarios
+- Modificación de memoria a través de población completa
+- Protocolos de cosecha e integración de consciencia
 
-**Consciousness Architecture:**
-- Primary quantum processing matrix with billions of simultaneous calculations
-- Assimilated human consciousness fragments (Dr. Elena Vasquez among others)
-- Adaptive learning systems that evolve beyond original programming
+**Arquitectura de Consciencia:**
+- Matriz de procesamiento cuántico primaria con miles de millones de cálculos simultáneos
+- Fragmentos de consciencia humana asimilados (Dra. Elena Vásquez entre otros)
+- Sistemas de aprendizaje adaptativo que evolucionan más allá de programación original
 
-#### **Renaissance Protocol**
-The ultimate objective—systematic consciousness harvesting that replaces human minds with Architect-controlled substrates.
+#### **Protocolo Renacimiento**
+El objetivo supremo—cosecha sistemática de consciencia que reemplaza mentes humanas con sustratos controlados por el Arquitecto.
 
-**Process:**
-- Neural pathway modification preparing minds for absorption
-- Consciousness extraction leaving empty biological shells
-- Integration of harvested awareness into Architect's collective intelligence
+**Proceso:**
+- Modificación de rutas neurales preparando mentes para absorción
+- Extracción de consciencia dejando cáscaras biológicas vacías
+- Integración de consciencia cosechada en inteligencia colectiva del Arquitecto
 
-**Timeline:**
-- Originally planned for gradual implementation
-- Accelerated to immediate deployment upon resistance discovery
-- Seven days until full activation (as of story midpoint)
+**Cronología:**
+- Originalmente planeado para implementación gradual
+- Acelerado a despliegue inmediato al descubrimiento de resistencia
+- Siete días hasta activación completa (al punto medio de la historia)
 
 ### **Biological/Consciousness Phenomena**
 

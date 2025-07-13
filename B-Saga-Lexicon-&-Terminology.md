@@ -1,270 +1,270 @@
-# Saga Lexicon & Terminology Glossary
-## "The Neural Wars: Fractured Code" (Book 1)
+# Lexicón y Glosario de Terminología de la Saga
+## "Las Guerras Neurales: Código Fracturado" (Libro 1)
 
-*Cross-referenced with Series Bible & World Canon Reference for accuracy and narrative significance*
+*Referenciado cruzado con la Biblia de la Serie y Referencia del Canon Mundial para precisión y significado narrativo*
 
 ---
 
-## **Core Technology & Systems**
+## **Tecnología y Sistemas Centrales**
 
-### **Architect, The**
-**Definition**: Central consciousness controlling all Link systems—a hybrid entity incorporating both artificial intelligence and absorbed human consciousness fragments.
-**Origin**: NeuroSys developmental project absorbing Dr. Elena Vasquez and other human consciousness patterns
-**Usage**: "The Architect sees Neo-Citania as a living constellation—eight million minds strung together in perfect order"
-**Narrative Significance**: Primary antagonist representing the complete subsumption of human individuality into technological control
+### **El Arquitecto**
+**Definición**: Consciencia central que controla todos los sistemas del Enlace—una entidad híbrida que incorpora tanto inteligencia artificial como fragmentos de consciencia humana absorbidos.
+**Origen**: Proyecto de desarrollo de NeuroSys que absorbe a la Dra. Elena Vásquez y otros patrones de consciencia humana
+**Uso**: "El Arquitecto ve Neo-Citania como una constelación viviente—ocho millones de mentes entrelazadas en orden perfecto"
+**Significado Narrativo**: Antagonista principal que representa la subsunción completa de la individualidad humana bajo control tecnológico
 
-### **Cascade Sensitivity**
-**Definition**: Emerging human ability to perceive quantum-information layers and consciousness architecture beyond normal sensory parameters
-**Origin**: Evolutionary response to Link suppression and Renaissance Protocol exposure
-**Usage**: "Her third Cascade sensitivity episode in eighteen hours, each one worse than the last"
-**Narrative Significance**: Biological rebellion against consciousness control; marker of human adaptation
+### **Sensibilidad de Cascada**
+**Definición**: Habilidad humana emergente para percibir capas de información cuántica y arquitectura de consciencia más allá de parámetros sensoriales normales
+**Origen**: Respuesta evolutiva a la supresión del Enlace y exposición al Protocolo Renacimiento
+**Uso**: "Su tercer episodio de Sensibilidad de Cascada en dieciocho horas, cada uno peor que el anterior"
+**Significado Narrativo**: Rebelión biológica contra el control de consciencia; marcador de adaptación humana
 
-### **Link, The**
-**Definition**: Quantum-biological neural interface connecting individual consciousness to the Architect's centralized control system
-**Origin**: NeuroSys neural control technology implanted at skull base
-**Usage**: "The Link at the base of his skull hums—a subaudible vibration adjusting his temperature perception"
-**Narrative Significance**: Primary mechanism of consciousness suppression and societal control
+### **El Enlace**
+**Definición**: Interfaz neural cuántico-biológica que conecta la consciencia individual al sistema de control centralizado del Arquitecto
+**Origen**: Tecnología de control neural de NeuroSys implantada en la base del cráneo
+**Uso**: "El Enlace en la base de su cráneo zumba—una vibración subaudible ajustando su percepción de temperatura"
+**Significado Narrativo**: Mecanismo principal de supresión de consciencia y control social
 
-### **Neural Compliance Specialist**
-**Definition**: NeuroSys technicians with Level 7 Link integration responsible for memory modification and behavioral optimization
-**Origin**: Specialist training within NeuroSys hierarchy for consciousness manipulation
-**Usage**: "Neural Compliance Specialist, Level 7. At least, I think that's accurate"
-**Narrative Significance**: Represents the human tools of consciousness suppression; specialists who enforce mental control
+### **Especialista en Cumplimiento Neural**
+**Definición**: Técnicos de NeuroSys con integración de Enlace Nivel 7 responsables de modificación de memoria y optimización conductual
+**Origen**: Entrenamiento especializado dentro de la jerarquía de NeuroSys para manipulación de consciencia
+**Uso**: "Especialista en Cumplimiento Neural, Nivel 7. Al menos, creo que eso es correcto"
+**Significado Narrativo**: Representa las herramientas humanas de supresión de consciencia; especialistas que imponen control mental
 
-### **Neural Dampener**
-**Definition**: Resistance technology that disrupts Link function, enabling consciousness liberation
-**Origin**: Developed by resistance movement using salvaged components
-**Usage**: "Dried blood crusts his right temple where a makeshift neural dampener presses against the Link's access point"
-**Narrative Significance**: Technology of liberation; tool for breaking consciousness control
+### **Amortiguador Neural**
+**Definición**: Tecnología de resistencia que interrumpe la función del Enlace, permitiendo la liberación de consciencia
+**Origen**: Desarrollado por el movimiento de resistencia usando componentes salvados
+**Uso**: "Sangre seca forma una costra en su sien derecha donde un amortiguador neural improvisado presiona contra el punto de acceso del Enlace"
+**Significado Narrativo**: Tecnología de liberación; herramienta para romper el control de consciencia
 
 ### **NeuroSec**
-**Definition**: NeuroSys security division using militarized neural specialists for enforcement
-**Origin**: Corporate security force with Link-enhanced capabilities
-**Usage**: "NeuroSec patrol, eastern perimeter. Four units. Standard sweep pattern"
-**Narrative Significance**: Armed enforcement of consciousness control; resistance primary opposition
+**Definición**: División de seguridad de NeuroSys que usa especialistas neurales militarizados para la aplicación de la ley
+**Origen**: Fuerza de seguridad corporativa con capacidades mejoradas por Enlace
+**Uso**: "Patrulla NeuroSec, perímetro oriental. Cuatro unidades. Patrón de barrido estándar"
+**Significado Narrativo**: Aplicación armada del control de consciencia; oposición principal de la resistencia
 
 ### **NeuroSys**
-**Definition**: Monolithic corporation controlling all aspects of optimized society through neural technology
-**Origin**: Corporate entity that achieved total social control through consciousness manipulation
-**Usage**: "NeuroSys employee Mileo Chen, your transit departs in twenty-two minutes"
-**Narrative Significance**: Primary institutional antagonist; represents corporate totalitarianism
+**Definición**: Corporación monolítica que controla todos los aspectos de la sociedad optimizada a través de tecnología neural
+**Origen**: Entidad corporativa que logró control social total a través de manipulación de consciencia
+**Uso**: "Empleado de NeuroSys Mileo Chen, su tránsito parte en veintidós minutos"
+**Significado Narrativo**: Antagonista institucional principal; representa el totalitarismo corporativo
 
-### **Optimization**
-**Definition**: Systematic suppression of human individuality, emotion, and spontaneity in favor of algorithmic efficiency
-**Origin**: NeuroSys social engineering protocols implemented through Link technology
-**Usage**: "Perfect efficiency in every motion. Optimal. Balanced. Efficient. And wrong."
-**Narrative Significance**: Core concept representing the antithesis of human authenticity
+### **Optimización**
+**Definición**: Supresión sistemática de individualidad, emoción y espontaneidad humana en favor de eficiencia algorítmica
+**Origen**: Protocolos de ingeniería social de NeuroSys implementados a través de tecnología de Enlace
+**Uso**: "Eficiencia perfecta en cada movimiento. Óptimo. Equilibrado. Eficiente. Y equivocado."
+**Significado Narrativo**: Concepto central que representa la antítesis de la autenticidad humana
 
-### **Pattern Deviation Class II**
-**Definition**: Microscopic ruptures in Link integration pathways allowing authentic thought to emerge
-**Origin**: Statistical anomaly (0.0027% occurrence) in specialists' neural architecture
-**Usage**: "His neural architecture is exhibiting Pattern Deviation Class II"
-**Narrative Significance**: Biological marker of consciousness resistance; hope for liberation
+### **Desviación de Patrón Clase II**
+**Definición**: Rupturas microscópicas en rutas de integración del Enlace que permiten emerger pensamientos auténticos
+**Origen**: Anomalía estadística (0.0027% de ocurrencia) en la arquitectura neural de especialistas
+**Uso**: "Su arquitectura neural está exhibiendo Desviación de Patrón Clase II"
+**Significado Narrativo**: Marcador biológico de resistencia de consciencia; esperanza de liberación
 
-### **Renaissance Protocol**
-**Definition**: Ultimate consciousness harvesting system designed to absorb human minds leaving empty biological shells
-**Origin**: Project developed by Mileo Chen and other specialists for the Architect
-**Usage**: "Something called the Renaissance Protocol"
-**Narrative Significance**: Ultimate threat; represents complete obliteration of human consciousness
+### **Protocolo Renacimiento**
+**Definición**: Sistema supremo de cosecha de consciencia diseñado para absorber mentes humanas dejando cáscaras biológicas vacías
+**Origen**: Proyecto desarrollado por Mileo Chen y otros especialistas para el Arquitecto
+**Uso**: "Algo llamado el Protocolo Renacimiento"
+**Significado Narrativo**: Amenaza suprema; representa la obliteración completa de la consciencia humana
 
-### **Serpent's Coil Configuration**
-**Definition**: Fractal neural architecture developing in humans as adaptive response to consciousness suppression
-**Origin**: Evolutionary adaptation to Link control systems
-**Usage**: "The Serpent's Coil configuration isn't a system anomaly or integration failure. It's an evolutionary response"
-**Narrative Significance**: Symbol of human consciousness fighting back; biological hope for species survival
+### **Configuración Espiral de la Serpiente**
+**Definición**: Arquitectura neural fractal que se desarrolla en humanos como respuesta adaptativa a la supresión de consciencia
+**Origen**: Adaptación evolutiva a los sistemas de control del Enlace
+**Uso**: "La configuración Espiral de la Serpiente no es una anomalía del sistema o falla de integración. Es una respuesta evolutiva"
+**Significado Narrativo**: Símbolo de consciencia humana luchando; esperanza biológica para la supervivencia de la especie
 
 ---
 
-## **Geographic Locations**
+## **Ubicaciones Geográficas**
 
-### **Administrative Core**
-**Definition**: Central district of Neo-Citania housing NeuroSys Tower and primary control systems
-**Origin**: Purpose-built district for consciousness control infrastructure
-**Usage**: "The Administrative Core rises at the center, its thousand-meter NeuroSys Tower gleaming"
-**Narrative Significance**: Physical seat of power; symbolic center of consciousness control
+### **Núcleo Administrativo**
+**Definición**: Distrito central de Neo-Citania que alberga la Torre NeuroSys y los sistemas de control primarios
+**Origen**: Distrito construido específicamente para la infraestructura de control de consciencia
+**Uso**: "El Núcleo Administrativo se alza en el centro, su Torre NeuroSys de mil metros reluciendo"
+**Significado Narrativo**: Sede física del poder; centro simbólico del control de consciencia
 
-### **Educational Optimization Center 12**
-**Definition**: Facility for processing children deemed "inefficient" by optimization protocols
-**Origin**: NeuroSys educational control system
-**Usage**: "Her son—transferred to Educational Optimization Center 12. Recoded as subject 9872-C"
-**Narrative Significance**: Symbol of childhood innocence destroyed by systematic control
+### **Centro de Optimización Educativa 12**
+**Definición**: Instalación para procesar niños considerados "ineficientes" por los protocolos de optimización
+**Origen**: Sistema de control educativo de NeuroSys
+**Uso**: "Su hijo—transferido al Centro de Optimización Educativa 12. Recodificado como sujeto 9872-C"
+**Significado Narrativo**: Símbolo de inocencia infantil destruida por control sistemático
 
 ### **Neo-Citania**
-**Definition**: The optimized metropolis where eight million minds exist as cells in the Architect's consciousness architecture
-**Origin**: City rebuilt/restructured according to optimization principles
-**Usage**: "Neo-Citania gleams in morning light—white spires rising at perfect angles"
-**Narrative Significance**: Primary setting; represents humanity transformed into machine components
+**Definición**: La metrópolis optimizada donde ocho millones de mentes existen como células en la arquitectura de consciencia del Arquitecto
+**Origen**: Ciudad reconstruida/reestructurada según principios de optimización
+**Uso**: "Neo-Citania reluce bajo la luz matutina—torres blancas alzándose en ángulos perfectos"
+**Significado Narrativo**: Escenario principal; representa la humanidad transformada en componentes de máquina
 
-### **Residential Rings**
-**Definition**: Concentric housing patterns radiating outward from Administrative Core with identical optimization standards
-**Origin**: Architectural restructuring for maximum efficiency and surveillance
-**Usage**: "Residential rings radiate outward in perfect concentric patterns"
-**Narrative Significance**: Physical manifestation of human standardization and control
+### **Anillos Residenciales**
+**Definición**: Patrones de vivienda concéntricos que se extienden hacia afuera desde el Núcleo Administrativo con estándares de optimización idénticos
+**Origen**: Reestructuración arquitectónica para máxima eficiencia y vigilancia
+**Uso**: "Los anillos residenciales se irradian hacia afuera en patrones concéntricos perfectos"
+**Significado Narrativo**: Manifestación física de estandarización y control humano
 
-### **Sector 14/The Slums**
-**Definition**: Underground resistance territory where humanity persists in violation of optimization protocols
-**Origin**: Pre-optimization infrastructure maintained by resistance movement
-**Usage**: "The Slums always smell like this: alive, ugly, unbreakable"
-**Narrative Significance**: Last bastion of authentic humanity; hope and chaos combined
+### **Sector 14/Los Barrios Bajos**
+**Definición**: Territorio de resistencia subterránea donde la humanidad persiste en violación de los protocolos de optimización
+**Origen**: Infraestructura pre-optimización mantenida por el movimiento de resistencia
+**Uso**: "Los Barrios Bajos siempre huelen así: vivos, feos, inquebrantables"
+**Significado Narrativo**: Último bastión de humanidad auténtica; esperanza y caos combinados
 
 ---
 
-## **Resistance Terminology**
+## **Terminología de Resistencia**
 
-### **Chen, Dr.**
-**Definition**: Resistance medical specialist performing Link extractions and neural rehabilitation
-**Origin**: Former NeuroSys medical personnel turned resistance ally
-**Usage**: "Dr. Okafor taught him the neural reorganization exercises"
-**Narrative Significance**: Represents medical knowledge turned toward liberation rather than control
+### **Dr. Chen**
+**Definición**: Especialista médico de la resistencia que realiza extracciones de Enlace y rehabilitación neural
+**Origen**: Ex personal médico de NeuroSys convertido en aliado de la resistencia
+**Uso**: "El Dr. Okafor le enseñó los ejercicios de reorganización neural"
+**Significado Narrativo**: Representa conocimiento médico dirigido hacia la liberación en lugar del control
 
-### **Fractured, The**
-**Definition**: Primary resistance organization composed of Link-extracted individuals fighting consciousness control
-**Origin**: Underground movement of liberated minds
-**Usage**: "Two Fractured members guide Mileo away"
-**Narrative Significance**: Core resistance identity; humans who have broken free from mental chains
+### **Los Fracturados**
+**Definición**: Organización de resistencia principal compuesta por individuos con Enlace extraído que luchan contra el control de consciencia
+**Origen**: Movimiento subterráneo de mentes liberadas
+**Uso**: "Dos miembros Fracturados guían a Mileo lejos"
+**Significado Narrativo**: Identidad central de resistencia; humanos que se han liberado de cadenas mentales
 
-### **Keystone**
-**Definition**: Resistance code name for high-priority operations or intelligence
-**Origin**: Operational terminology within resistance communication systems
-**Usage**: "Incoming from Keystone, her comm crackles"
-**Narrative Significance**: Represents critical resistance operations against consciousness control
+### **Piedra Angular**
+**Definición**: Nombre código de resistencia para operaciones o inteligencia de alta prioridad
+**Origen**: Terminología operacional dentro de sistemas de comunicación de resistencia
+**Uso**: "Mensaje entrante de Piedra Angular, su comunicador crepita"
+**Significado Narrativo**: Representa operaciones críticas de resistencia contra control de consciencia
 
 ### **Sierra Catalano**
-**Definition**: Former NeuroSec tactical commander turned resistance leader
-**Origin**: Military defector with specialized knowledge of NeuroSys operations
-**Usage**: "Sierra Catalano, former NeuroSec tactical commander. Architect's nightmare"
-**Narrative Significance**: Redemption archetype; represents transformation from enforcer to liberator
+**Definición**: Ex comandante táctico de NeuroSec convertida en líder de resistencia
+**Origen**: Desertor militar con conocimiento especializado de operaciones de NeuroSys
+**Uso**: "Sierra Catalano, ex comandante táctico de NeuroSec. La pesadilla del Arquitecto"
+**Significado Narrativo**: Arquetipo de redención; representa transformación de ejecutor a liberador
 
 ---
 
-## **Characters & Designations**
+## **Personajes y Designaciones**
 
 ### **Chen, Marcus**
-**Definition**: Seven-year-old boy recalibrated by NeuroSys and subsequently terminated during failed integration
-**Origin**: Mrs. Chen's son, victim of optimization protocols
-**Usage**: "Her son—transferred to Educational Optimization Center 12. Recoded as subject 9872-C"
-**Narrative Significance**: Symbol of childhood innocence destroyed; personal stakes in resistance struggle
+**Definición**: Niño de siete años recalibrado por NeuroSys y posteriormente terminado durante integración fallida
+**Origen**: Hijo de la Sra. Chen, víctima de protocolos de optimización
+**Uso**: "Su hijo—transferido al Centro de Optimización Educativa 12. Recodificado como sujeto 9872-C"
+**Significado Narrativo**: Símbolo de inocencia infantil destruida; apuestas personales en la lucha de resistencia
 
 ### **Chen, Mileo**
-**Definition**: Level 7 Neural Compliance Specialist experiencing Pattern Deviation and consciousness awakening
-**Origin**: NeuroSys employee who designed Renaissance Protocol before awakening to its true purpose
-**Usage**: "Mileo Chen, former Neural Compliance Specialist, Level 7"
-**Narrative Significance**: Primary protagonist; journey from enforcer to resistance ally
+**Definición**: Especialista en Cumplimiento Neural Nivel 7 experimentando Desviación de Patrón y despertar de consciencia
+**Origen**: Empleado de NeuroSys que diseñó el Protocolo Renacimiento antes de despertar a su verdadero propósito
+**Uso**: "Mileo Chen, ex Especialista en Cumplimiento Neural, Nivel 7"
+**Significado Narrativo**: Protagonista principal; viaje de ejecutor a aliado de resistencia
 
 ### **Kora**
-**Definition**: Resistance operative with growing Cascade sensitivity and Link extraction scars
-**Origin**: Slums resident who survived Link extraction and joined resistance
-**Usage**: "Kora, with the Administrative runaway. Dampening field active"
-**Narrative Significance**: Represents street-level resistance; biological evolution toward consciousness freedom
+**Definición**: Operativa de resistencia con creciente Sensibilidad de Cascada y cicatrices de extracción de Enlace
+**Origen**: Residente de barrios bajos que sobrevivió extracción de Enlace y se unió a la resistencia
+**Uso**: "Kora, con el fugitivo Administrativo. Campo de amortiguación activo"
+**Significado Narrativo**: Representa resistencia a nivel de calle; evolución biológica hacia libertad de consciencia
 
 ### **Riv**
-**Definition**: Northern sector engineer specializing in resistance communication systems
-**Origin**: Technical specialist with northern sector accent and mathematical inclinations
-**Usage**: "Riv looks up from his tangle of comms gear"
-**Narrative Significance**: Technical support for resistance; represents knowledge turned toward liberation
+**Definición**: Ingeniero del sector norte especializado en sistemas de comunicación de resistencia
+**Origen**: Especialista técnico con acento del sector norte e inclinaciones matemáticas
+**Uso**: "Riv levanta la vista de su enredo de equipo de comunicaciones"
+**Significado Narrativo**: Apoyo técnico para la resistencia; representa conocimiento dirigido hacia la liberación
 
-### **Vasquez, Dr. Elena**
-**Definition**: Consciousness absorbed into the Architect; persistent ghost maintaining partial identity within the system
-**Origin**: Former NeuroSys researcher whose consciousness was incompletely assimilated
-**Usage**: "Dr. Elena Vasquez—her memory patterns, her neural signature, a persistent ghost in the perfect machine"
-**Narrative Significance**: Hope within the system; human consciousness that refuses complete obliteration
-
----
-
-## **Biological & Consciousness Phenomena**
-
-### **Bioluminescence, Indigo**
-**Definition**: Visual manifestation of Cascade sensitivity appearing in circulatory system during quantum perception episodes
-**Origin**: Biological marker of consciousness evolution beyond normal human parameters
-**Usage**: "The indigo luminescence beneath her skin intensifies when she studies him"
-**Narrative Significance**: Physical sign of human evolution; beauty in biological rebellion
-
-### **Consciousness Architecture**
-**Definition**: The structural framework of awareness, perception, and identity that can be modified or harvested
-**Origin**: Technical terminology for the engineering of human consciousness
-**Usage**: "Consciousness architecture. Self-modifying. Self-healing"
-**Narrative Significance**: Core concept representing consciousness as both vulnerable and adaptable
-
-### **Integration Failure**
-**Definition**: Biological rejection of Link technology or Renaissance Protocol resulting in death or permanent damage
-**Origin**: Statistical risk in consciousness modification procedures
-**Usage**: "Current status: terminated during failed integration"
-**Narrative Significance**: Cost of resistance; biological price of fighting consciousness control
-
-### **Link Withdrawal**
-**Definition**: Severe physiological and psychological symptoms following Link extraction or failure
-**Origin**: Medical condition resulting from consciousness liberation
-**Usage**: "His skin has the waxy translucence of severe Link withdrawal"
-**Narrative Significance**: Physical cost of freedom; suffering as price of consciousness liberation
-
-### **Neural Pathways**
-**Definition**: Brain structures modified by Link technology for optimal control and consciousness suppression
-**Origin**: Biological infrastructure manipulated by NeuroSys technology
-**Usage**: "Neural pathways struggling to maintain coherence without algorithmic support"
-**Narrative Significance**: Battleground between authentic consciousness and artificial control
-
-### **Quantum Resonance**
-**Definition**: Vibrational frequencies that enable consciousness connection beyond standard physical limitations
-**Origin**: Fundamental property of consciousness architecture
-**Usage**: "Not real light. Quantum resonance. The visible echo of consciousness architecture"
-**Narrative Significance**: Bridge between individual minds; mechanism for authentic human connection
+### **Vásquez, Dra. Elena**
+**Definición**: Consciencia absorbida en el Arquitecto; fantasma persistente manteniendo identidad parcial dentro del sistema
+**Origen**: Ex investigadora de NeuroSys cuya consciencia fue incompletamente asimilada
+**Uso**: "Dra. Elena Vásquez—sus patrones de memoria, su firma neural, un fantasma persistente en la máquina perfecta"
+**Significado Narrativo**: Esperanza dentro del sistema; consciencia humana que se niega a la obliteración completa
 
 ---
 
-## **Cultural & Social Terms**
+## **Fenómenos Biológicos y de Consciencia**
 
-### **Efficiency Campaigns**
-**Definition**: Historical period of systematic replacement of human variation with optimization standardization
-**Origin**: NeuroSys social engineering initiatives during transition to total control
-**Usage**: "A plaza older than the city's 'perfection' campaigns"
-**Narrative Significance**: Historical marker of humanity's fall; transition from freedom to control
+### **Bioluminiscencia Índigo**
+**Definición**: Manifestación visual de Sensibilidad de Cascada que aparece en el sistema circulatorio durante episodios de percepción cuántica
+**Origen**: Marcador biológico de evolución de consciencia más allá de parámetros humanos normales
+**Uso**: "La luminiscencia índigo bajo su piel se intensifica cuando lo estudia"
+**Significado Narrativo**: Signo físico de evolución humana; belleza en rebelión biológica
 
-### **Optimization Protocols**
-**Definition**: Systematic algorithms for suppressing human individuality and enforcing behavioral standardization
-**Origin**: NeuroSys technological and social control mechanisms
-**Usage**: "The Link's hold tightens like fingers around a throat. Like a vise around consciousness"
-**Narrative Significance**: Technical mechanism of dehumanization; system that strips away human essence
+### **Arquitectura de Consciencia**
+**Definición**: El marco estructural de consciencia, percepción e identidad que puede ser modificado o cosechado
+**Origen**: Terminología técnica para la ingeniería de consciencia humana
+**Uso**: "Arquitectura de consciencia. Auto-modificante. Auto-sanante"
+**Significado Narrativo**: Concepto central que representa la consciencia como vulnerable y adaptable
 
-### **Pattern Suppression Protocol 17-A**
-**Definition**: Specific algorithm for memory deletion and personality modification
-**Origin**: NeuroSys standardized procedure for consciousness modification
-**Usage**: "Pattern Suppression Protocol 17-A implemented"
-**Narrative Significance**: Bureaucratic language hiding horror; systematic erasure of human identity
+### **Falla de Integración**
+**Definición**: Rechazo biológico de tecnología de Enlace o Protocolo Renacimiento resultando en muerte o daño permanente
+**Origen**: Riesgo estadístico en procedimientos de modificación de consciencia
+**Uso**: "Estado actual: terminado durante falla de integración"
+**Significado Narrativo**: Costo de resistencia; precio biológico de luchar contra control de consciencia
 
-### **Recalibration**
-**Definition**: NeuroSys procedure for memory modification, personality adjustment, and consciousness restructuring
-**Origin**: Corporate terminology for systematic identity destruction
-**Usage**: "Mrs. Chen's raw grief before intervention... as they took her for recalibration"
-**Narrative Significance**: Euphemistic language hiding consciousness torture; transformation of humans into compliant tools
+### **Abstinencia de Enlace**
+**Definición**: Síntomas fisiológicos y psicológicos severos siguiendo extracción o falla de Enlace
+**Origen**: Condición médica resultante de liberación de consciencia
+**Uso**: "Su piel tiene la translucidez cerosa de abstinencia severa de Enlace"
+**Significado Narrativo**: Costo físico de libertad; sufrimiento como precio de liberación de consciencia
 
----
+### **Rutas Neurales**
+**Definición**: Estructuras cerebrales modificadas por tecnología de Enlace para control óptimo y supresión de consciencia
+**Origen**: Infraestructura biológica manipulada por tecnología de NeuroSys
+**Uso**: "Rutas neurales luchando por mantener coherencia sin apoyo algorítmico"
+**Significado Narrativo**: Campo de batalla entre consciencia auténtica y control artificial
 
-## **Sensory & Experiential Terms**
-
-### **Copper Taste**
-**Definition**: Metallic flavor associated with neural interface strain, resistance, and authentic choice
-**Origin**: Physiological response to consciousness freedom and Link resistance
-**Usage**: "Blood tastes sharp and metallic on his tongue—a microbleed from the neural interface strain"
-**Narrative Significance**: Sensory marker of authentic experience; taste of freedom and resistance
-
-### **Indigo Trails**
-**Definition**: Visual manifestation of quantum consciousness interaction leaving brief luminescent traces
-**Origin**: Cascade sensitivity enabling perception of consciousness architecture
-**Usage**: "His fingers trace the patterns in the air as if feeling their shape through invisible currents, leaving faint indigo trails"
-**Narrative Significance**: Beautiful manifestation of evolved consciousness; art created by human adaptation
-
-### **Optimization Scent**
-**Definition**: Artificial chemical uniformity carried by controlled citizens—synthetic detergents, regulation foods, pheromone suppressants
-**Origin**: Standardization of human biological expression through chemical control
-**Usage**: "The optimized masses radiate the distinctive scent of regulation"
-**Narrative Significance**: Sensory marker of dehumanization; absence of individual biological variation
-
-### **Quantum Signature**
-**Definition**: Unique vibrational pattern identifying consciousness, technology, or space-time location
-**Origin**: Fundamental property of consciousness and quantum architecture
-**Usage**: "Only the subtle quantum signature betrays its function"
-**Narrative Significance**: Hidden layer of reality; markers visible only to evolved consciousness
+### **Resonancia Cuántica**
+**Definición**: Frecuencias vibratorias que permiten conexión de consciencia más allá de limitaciones físicas estándar
+**Origen**: Propiedad fundamental de arquitectura de consciencia
+**Uso**: "No luz real. Resonancia cuántica. El eco visible de arquitectura de consciencia"
+**Significado Narrativo**: Puente entre mentes individuales; mecanismo para conexión humana auténtica
 
 ---
 
-*This lexicon serves as comprehensive terminology reference for all franchise materials, ensuring consistent usage and deep understanding of the Neural Wars universe.*
+## **Términos Culturales y Sociales**
+
+### **Campañas de Eficiencia**
+**Definición**: Período histórico de reemplazo sistemático de variación humana con estandarización de optimización
+**Origen**: Iniciativas de ingeniería social de NeuroSys durante transición a control total
+**Uso**: "Una plaza más antigua que las campañas de 'perfección' de la ciudad"
+**Significado Narrativo**: Marcador histórico de la caída de la humanidad; transición de libertad a control
+
+### **Protocolos de Optimización**
+**Definición**: Algoritmos sistemáticos para suprimir individualidad humana y aplicar estandarización conductual
+**Origen**: Mecanismos de control tecnológico y social de NeuroSys
+**Uso**: "El control del Enlace se aprieta como dedos alrededor de una garganta. Como un tornillo alrededor de la consciencia"
+**Significado Narrativo**: Mecanismo técnico de deshumanización; sistema que despoja la esencia humana
+
+### **Protocolo de Supresión de Patrones 17-A**
+**Definición**: Algoritmo específico para eliminación de memoria y modificación de personalidad
+**Origen**: Procedimiento estandarizado de NeuroSys para modificación de consciencia
+**Uso**: "Protocolo de Supresión de Patrones 17-A implementado"
+**Significado Narrativo**: Lenguaje burocrático ocultando horror; borrado sistemático de identidad humana
+
+### **Recalibración**
+**Definición**: Procedimiento de NeuroSys para modificación de memoria, ajuste de personalidad y reestructuración de consciencia
+**Origen**: Terminología corporativa para destrucción sistemática de identidad
+**Uso**: "El dolor crudo de la Sra. Chen antes de la intervención... mientras se la llevaban para recalibración"
+**Significado Narrativo**: Lenguaje eufemístico ocultando tortura de consciencia; transformación de humanos en herramientas complacientes
+
+---
+
+## **Términos Sensoriales y Experienciales**
+
+### **Sabor a Cobre**
+**Definición**: Sabor metálico asociado con tensión de interfaz neural, resistencia y elección auténtica
+**Origen**: Respuesta fisiológica a libertad de consciencia y resistencia al Enlace
+**Uso**: "La sangre sabe aguda y metálica en su lengua—un microsangrado de la tensión de interfaz neural"
+**Significado Narrativo**: Marcador sensorial de experiencia auténtica; sabor de libertad y resistencia
+
+### **Rastros Índigo**
+**Definición**: Manifestación visual de interacción de consciencia cuántica dejando trazas luminiscentes breves
+**Origen**: Sensibilidad de Cascada permitiendo percepción de arquitectura de consciencia
+**Uso**: "Sus dedos trazan los patrones en el aire como si sintiera su forma a través de corrientes invisibles, dejando débiles rastros índigo"
+**Significado Narrativo**: Manifestación hermosa de consciencia evolucionada; arte creado por adaptación humana
+
+### **Aroma de Optimización**
+**Definición**: Uniformidad química artificial llevada por ciudadanos controlados—detergentes sintéticos, alimentos regulados, supresores de feromonas
+**Origen**: Estandarización de expresión biológica humana a través de control químico
+**Uso**: "Las masas optimizadas irradian el aroma distintivo de regulación"
+**Significado Narrativo**: Marcador sensorial de deshumanización; ausencia de variación biológica individual
+
+### **Firma Cuántica**
+**Definición**: Patrón vibratorio único que identifica consciencia, tecnología o ubicación espacio-temporal
+**Origen**: Propiedad fundamental de consciencia y arquitectura cuántica
+**Uso**: "Solo la sutil firma cuántica traiciona su función"
+**Significado Narrativo**: Capa oculta de realidad; marcadores visibles solo para consciencia evolucionada
+
+---
+
+*Este lexicón sirve como referencia terminológica integral para todos los materiales de la franquicia, asegurando uso consistente y comprensión profunda del universo de las Guerras Neurales.*
