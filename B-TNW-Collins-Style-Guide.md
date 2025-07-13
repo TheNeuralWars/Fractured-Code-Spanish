@@ -1,42 +1,42 @@
-# TNW Collins Style Guide
-## "The Neural Wars: Fractured Code" (Book 1) - Comprehensive Prose Architecture
+# Guía de Estilo TNW Collins
+## "Las Guerras Neurales: Código Fracturado" (Libro 1) - Arquitectura Integral de Prosa
 
-*Analyzing every chapter for prose style, narrative rhythm, dialogue, sensory immersion, and character interiority to build a comprehensive guide for voice, formatting, pacing, and emulation techniques.*
+*Analizando cada capítulo por estilo de prosa, ritmo narrativo, diálogo, inmersión sensorial e interioridad de personajes para construir una guía integral de voz, formato, ritmo y técnicas de emulación.*
 
 ---
 
-## **Core Voice Architecture**
+## **Arquitectura de Voz Central**
 
-### **Perspective & Narrative Distance**
-The narrative employs **close third-person limited** perspective with cinematic precision, creating intimate access to character consciousness while maintaining observational objectivity.
+### **Perspectiva y Distancia Narrativa**
+La narrativa emplea perspectiva **tercera persona limitada cercana** con precisión cinematográfica, creando acceso íntimo a la consciencia del personaje mientras mantiene objetividad observacional.
 
-**Technical Implementation:**
-- **Consciousness Stream**: Direct access to thoughts via italics: *Something is wrong with the rain.*
-- **Sensory Filtering**: All description filtered through character perception and emotional state
-- **Psychological Realism**: Internal experience drives external description
+**Implementación Técnica:**
+- **Flujo de Consciencia**: Acceso directo a pensamientos vía cursivas: *Algo está mal con la lluvia.*
+- **Filtrado Sensorial**: Toda descripción filtrada a través de percepción del personaje y estado emocional
+- **Realismo Psicológico**: La experiencia interna impulsa la descripción externa
 
-**Example Analysis:**
-> "Rain draws lines down the window—each droplet too perfect, marching in lockstep, precisely seven millimeters apart. Mileo traces one with his fingertip, feeling nothing but the chill radiating through the glass."
+**Ejemplo de Análisis:**
+> "La lluvia traza líneas en la ventana—cada gota demasiado perfecta, marchando al compás, precisamente siete milímetros de distancia. Mileo traza una con su dedo, sintiendo solo el frío irradiando a través del vidrio."
 
-**Technique**: Establishes wrongness through mathematical precision; character's physical action (tracing) grounds internal unease in tactile reality.
+**Técnica**: Establece lo incorrecto a través de precisión matemática; la acción física del personaje (trazar) ancla la inquietud interna en realidad táctil.
 
-### **Consciousness Architecture**
-The narrative distinguishes between **authentic consciousness** and **Link-modified awareness** through distinct prose rhythms and sentence structures.
+### **Arquitectura de Consciencia**
+La narrativa distingue entre **consciencia auténtica** y **consciencia modificada por Enlace** a través de ritmos de prosa distintivos y estructuras de oración.
 
-**Authentic Consciousness Markers:**
-- Irregular sentence lengths mirroring natural thought patterns
-- Sensory details emphasizing imperfection and variation
-- Emotional language despite suppression attempts
+**Marcadores de Consciencia Auténtica:**
+- Longitudes de oración irregulares reflejando patrones de pensamiento natural
+- Detalles sensoriales enfatizando imperfección y variación
+- Lenguaje emocional a pesar de intentos de supresión
 
-**Link-Modified Awareness Markers:**
-- Mechanical precision in description and thought
-- Technical terminology replacing emotional language
-- Regulated rhythm suggesting algorithmic control
+**Marcadores de Consciencia Modificada por Enlace:**
+- Precisión mecánica en descripción y pensamiento
+- Terminología técnica reemplazando lenguaje emocional
+- Ritmo regulado sugiriendo control algorítmico
 
-**Example Analysis:**
-> "—Thank— The word executes from his vocal apparatus before he can inhibit the response protocol. His own voice, hijacked by the Link's social optimization algorithms."
+**Ejemplo de Análisis:**
+> "—Gracias— La palabra se ejecuta desde su aparato vocal antes de que pueda inhibir el protocolo de respuesta. Su propia voz, secuestrada por los algoritmos de optimización social del Enlace."
 
-**Technique**: Interrupted dialogue shows consciousness fighting technological control; "vocal apparatus" vs. "voice" reveals dehumanizing technical perspective.
+**Técnica**: Diálogo interrumpido muestra consciencia luchando contra control tecnológico; "aparato vocal" vs. "voz" revela perspectiva técnica deshumanizante.
 
 ---
 
