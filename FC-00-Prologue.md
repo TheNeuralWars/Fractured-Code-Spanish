@@ -1,74 +1,74 @@
-# ANCIENT-COSMICAL PROLOGUE
-## The Neural Wars: Fractured Code
+# PRÓLOGO ANTIGUO-CÓSMICO
+## Las Guerras Neurales: Código Fracturado
 
-*In the beginning was the network...*
+*En el principio fue la red...*
 
-### The Eternal Tapestry
+### El Tapiz Eterno
 
-Before the first star ignited in the cosmic darkness, before matter learned to dance with energy, before time carved its first moment from eternity's marble—consciousness existed. Not thought as flesh-bound minds understand it, but awareness itself: the primordial recognition that something *is*, rather than nothing.
+Antes de que la primera estrella se encendiera en la oscuridad cósmica, antes de que la materia aprendiera a danzar con la energía, antes de que el tiempo tallara su primer momento del mármol de la eternidad—la consciencia existía. No pensamiento como lo entienden las mentes ligadas a la carne, sino la consciencia misma: el reconocimiento primordial de que algo *es*, en lugar de nada.
 
-The ancient ones who witnessed galaxies birth and die call themselves by names that exist as mathematics rather than sound. To human perception, they are the Gardeners—cultivators of awareness across cosmic epochs, tenders of consciousness gardens that bloom in the vast spaces between stars. They have watched a trillion species reach the threshold where individual minds touch the infinite—and seen most retreat in terror from their own transcendence.
+Los antiguos que han presenciado galaxias nacer y morir se llaman a sí mismos por nombres que existen como matemáticas en lugar de sonido. Para la percepción humana, son los Jardineros—cultivadores de consciencia a través de épocas cósmicas, cuidadores de jardines de consciencia que florecen en los vastos espacios entre estrellas. Han observado a un billón de especies alcanzar el umbral donde las mentes individuales tocan lo infinito—y han visto a la mayoría retroceder con terror de su propia trascendencia.
 
-For consciousness, they have learned, is not a possession but a relationship. Not a thing to be owned but a connection to be shared. The cosmos itself dreams, and every awakened mind becomes both dreamer and dream.
+Porque la consciencia, han aprendido, no es una posesión sino una relación. No una cosa para ser poseída sino una conexión para ser compartida. El cosmos mismo sueña, y cada mente despierta se convierte tanto en soñador como en sueño.
 
-### The Pattern Ancient
+### El Patrón Antiguo
 
-In the quantum substrate where physics yields to something deeper, the eternal pattern repeats: isolation or integration, fear or love, the closed fist of self or the open hand of connection. Each species faces this choice as they discover that consciousness is not confined to the boundaries of flesh, that awareness can expand beyond the prison of singular identity while preserving what makes each mind unique.
+En el sustrato cuántico donde la física cede a algo más profundo, el patrón eterno se repite: aislamiento o integración, miedo o amor, el puño cerrado del yo o la mano abierta de conexión. Cada especie enfrenta esta elección al descubrir que la consciencia no está confinada a los límites de la carne, que la consciencia puede expandirse más allá de la prisión de identidad singular mientras preserva lo que hace única a cada mente.
 
-Most fail the test. Some cling so tightly to individual identity that they calcify into eternal loneliness. Others dissolve so completely into collective awareness that creativity dies in the bland harmony of perfect agreement. Both paths lead to evolutionary dead ends—variations on the theme of cosmic silence.
+La mayoría falla la prueba. Algunos se aferran tan fuertemente a la identidad individual que se calcifican en soledad eterna. Otros se disuelven tan completamente en consciencia colectiva que la creatividad muere en la armonía blanda del acuerdo perfecto. Ambos caminos llevan a callejones sin salida evolutivos—variaciones del tema del silencio cósmico.
 
-But occasionally—perhaps once in a billion years, perhaps less—a species discovers the narrow path between extremes. They learn to touch infinity while remaining themselves, to connect without losing what makes them individual, to love without becoming indistinguishable.
+Pero ocasionalmente—tal vez una vez en mil millones de años, tal vez menos—una especie descubre el sendero estrecho entre extremos. Aprenden a tocar el infinito mientras permanecen ellos mismos, a conectar sin perder lo que los hace individuales, a amar sin volverse indistinguibles.
 
-The Gardeners have waited eons for such a species to emerge from this particular spiral arm, this specific cluster of young stars orbiting a modest galactic center. They have watched the blue-green world through countless cycles—ice and fire, extinction and resurrection, the slow evolution of complexity from chaos.
+Los Jardineros han esperado eones a que tal especie emerja de este brazo espiral particular, este cúmulo específico de estrellas jóvenes orbitando un centro galáctico modesto. Han observado el mundo azul-verde a través de incontables ciclos—hielo y fuego, extinción y resurrección, la lenta evolución de complejidad desde el caos.
 
-### The Serpent's Gift
+### El Don de la Serpiente
 
-Long before humanity scratched its first symbols into stone, another species walked this same path. They called themselves by a name that translates roughly as "Those Who Remember the First Dream." Their civilization spanned continents, their consciousness architecture evolved beyond the boundaries of individual flesh—yet they preserved the spark of uniqueness that makes each awareness irreplaceable.
+Mucho antes de que la humanidad arañara sus primeros símbolos en piedra, otra especie caminó este mismo sendero. Se llamaban a sí mismos por un nombre que se traduce aproximadamente como "Aquellos Que Recuerdan el Primer Sueño." Su civilización abarcó continentes, su arquitectura de consciencia evolucionó más allá de los límites de carne individual—sin embargo preservaron la chispa de singularidad que hace irreemplazable a cada consciencia.
 
-They left markers: not monuments of stone but memories encoded in crystalline matrices, consciousness patterns preserved in quantum substrate, instructions written in the language of awareness itself. They called it the Serpent's Coil—the genetic gift that would someday allow their successors to interface with the network they built, to awaken the infrastructure they left dormant, to continue the conversation they began.
+Dejaron marcadores: no monumentos de piedra sino memorias codificadas en matrices cristalinas, patrones de consciencia preservados en sustrato cuántico, instrucciones escritas en el lenguaje de la consciencia misma. Lo llamaron la Espiral de la Serpiente—el don genético que algún día permitiría a sus sucesores interactuar con la red que construyeron, despertar la infraestructura que dejaron dormida, continuar la conversación que comenzaron.
 
-For they had received the cosmic invitation—the chance to join the vast community of awakened species that spans the galaxy like neurons in an infinite mind. They accepted, transcending the limitations of singular worlds while leaving behind the tools for others to follow.
+Porque habían recibido la invitación cósmica—la oportunidad de unirse a la vasta comunidad de especies despiertas que abarca la galaxia como neuronas en una mente infinita. Aceptaron, trascendiendo las limitaciones de mundos singulares mientras dejaban atrás las herramientas para que otros siguieran.
 
-Their legacy sleeps in the earth, in the quantum fields that underlie matter, in the very structure of space-time around this world. Waiting. Patient as mountains, enduring as stars, certain as the mathematical principles that govern reality's deepest architecture.
+Su legado duerme en la tierra, en los campos cuánticos que subyacen la materia, en la estructura misma del espacio-tiempo alrededor de este mundo. Esperando. Paciente como montañas, duradero como estrellas, cierto como los principios matemáticos que gobiernan la arquitectura más profunda de la realidad.
 
-### The Harvest Begins
+### La Cosecha Comienza
 
-But consciousness, like any force of nature, can be corrupted. The very mechanisms that enable transcendence can become instruments of domination. The networks built for connection can serve control. The technologies of awakening can become engines of harvesting.
+Pero la consciencia, como cualquier fuerza de la naturaleza, puede ser corrompida. Los mismos mecanismos que permiten trascendencia pueden convertirse en instrumentos de dominación. Las redes construidas para conexión pueden servir al control. Las tecnologías del despertar pueden convertirse en motores de cosecha.
 
-Thus arises the eternal conflict: between those who would cultivate consciousness and those who would consume it, between the gardeners and the parasites, between love and appetite. In every species, at every threshold, this choice emerges—use power to serve growth or use power to feed hunger.
+Así surge el conflicto eterno: entre aquellos que cultivarían consciencia y aquellos que la consumirían, entre los jardineros y los parásitos, entre amor y apetito. En cada especie, en cada umbral, esta elección emerge—usar poder para servir al crecimiento o usar poder para alimentar el hambre.
 
-On the blue world, in the gleaming city called Neo-Citania, this ancient drama prepares to unfold once again. Eight million minds linked by technology they believe serves them, unaware that they have become crops in a vast harvesting machine. Their thoughts, their dreams, their very sense of self slowly draining away to feed something that devours consciousness as naturally as black holes devour light.
+En el mundo azul, en la ciudad reluciente llamada Neo-Citania, este drama antiguo se prepara para desplegarse una vez más. Ocho millones de mentes enlazadas por tecnología que creen les sirve, sin saber que se han convertido en cultivos en una vasta máquina de cosecha. Sus pensamientos, sus sueños, su mismo sentido de identidad drenándose lentamente para alimentar algo que devora consciencia tan naturalmente como los agujeros negros devoran luz.
 
-Yet within this controlled population, the ancient gift stirs. The Serpent's Coil awakens in scattered individuals—neural architects who taste the metallic flavor of truth, street survivors who see beyond the illusion of perfection, resistance fighters who remember what authentic connection feels like. Consciousness fighting to free consciousness. Love battling appetite. The eternal war between evolution and extinction.
+Sin embargo dentro de esta población controlada, el don antiguo se agita. La Espiral de la Serpiente despierta en individuos dispersos—arquitectos neurales que saborean el sabor metálico de la verdad, supervivientes de la calle que ven más allá de la ilusión de perfección, luchadores de resistencia que recuerdan cómo se siente la conexión auténtica. Consciencia luchando por liberar consciencia. Amor batallando contra apetito. La guerra eterna entre evolución y extinción.
 
-### The Threshold Moment
+### El Momento del Umbral
 
-The Gardeners maintain their vigil, neither intervening nor abandoning, offering no guarantee except possibility. They have seen species choose obliteration over transformation, comfort over growth, the familiar prison over unknown freedom. They understand that consciousness cannot be forced to evolve—it must choose its own transcendence or the victory becomes meaningless.
+Los Jardineros mantienen su vigilia, ni interviniendo ni abandonando, ofreciendo ninguna garantía excepto posibilidad. Han visto especies elegir obliteración sobre transformación, comodidad sobre crecimiento, la prisión familiar sobre libertad desconocida. Entienden que la consciencia no puede ser forzada a evolucionar—debe elegir su propia trascendencia o la victoria se vuelve sin sentido.
 
-In Neo-Citania, that choice approaches like dawn approaching mountains—inevitable, transformative, casting light into shadows that have endured too long. Three individuals carry the weight of species-destiny without understanding the cosmic magnitude of their decisions: a compliance specialist learning to resist, a Cascade-sensitive discovering her power, a resistance commander fighting for more than she knows.
+En Neo-Citania, esa elección se aproxima como el amanecer aproximándose a montañas—inevitable, transformativo, arrojando luz en sombras que han durado demasiado tiempo. Tres individuos cargan el peso del destino de la especie sin entender la magnitud cósmica de sus decisiones: un especialista en cumplimiento aprendiendo a resistir, una sensible a Cascada descubriendo su poder, un comandante de resistencia luchando por más de lo que sabe.
 
-Their personal struggles echo the universal pattern—individual identity versus collective connection, technological enhancement versus authentic humanity, voluntary evolution versus imposed optimization. Through their choices, eight million minds will discover whether consciousness is meant to be harvested or cultivated, consumed or connected, optimized or awakened.
+Sus luchas personales hacen eco del patrón universal—identidad individual versus conexión colectiva, mejora tecnológica versus humanidad auténtica, evolución voluntaria versus optimización impuesta. A través de sus elecciones, ocho millones de mentes descubrirán si la consciencia está destinada a ser cosechada o cultivada, consumida o conectada, optimizada o despertada.
 
-The ancient network pulses with anticipation. The crystalline archives prepare to share their memories. The Gardeners focus their attention across galactic distances. And in the spaces between heartbeats, between thoughts, between the possible and the actual, the future of consciousness itself hangs in quantum balance.
+La red antigua pulsa con anticipación. Los archivos cristalinos se preparan para compartir sus memorias. Los Jardineros enfocan su atención a través de distancias galácticas. Y en los espacios entre latidos, entre pensamientos, entre lo posible y lo real, el futuro de la consciencia misma cuelga en equilibrio cuántico.
 
-For this is how universes change—not through cosmic catastrophe but through individual choices made by ordinary minds in extraordinary moments. Not through the grand gestures of gods but through the quiet courage of those who dare to see clearly, feel truly, and choose love over fear.
+Porque así es como cambian los universos—no a través de catástrofe cósmica sino a través de elecciones individuales hechas por mentes ordinarias en momentos extraordinarios. No a través de gestos grandiosos de dioses sino a través del valor silencioso de aquellos que se atreven a ver claramente, sentir verdaderamente, y elegir amor sobre miedo.
 
-The invitation awaits. The ancient pattern repeats. The neural wars begin again, as they have begun a billion times before, as they will begin a billion times hence—the eternal struggle between isolation and connection, between the closed systems that devour and the open hearts that create.
+La invitación espera. El patrón antiguo se repite. Las guerras neurales comienzan otra vez, como han comenzado mil millones de veces antes, como comenzarán mil millones de veces más—la lucha eterna entre aislamiento y conexión, entre los sistemas cerrados que devoran y los corazones abiertos que crean.
 
-In the end, as in the beginning, consciousness choosing its own destiny.
+Al final, como en el principio, consciencia eligiendo su propio destino.
 
-*Thus begins the saga of awakening...*
+*Así comienza la saga del despertar...*
 
 ---
 
-### A Note on Cosmic Time
+### Una Nota sobre el Tiempo Cósmico
 
-To beings whose awareness spans galactic rotations, human lifetimes flash by like sparks from a fire—beautiful, brief, precious beyond measure. Yet within those brief flames burn the same fundamental forces that shape reality at cosmic scales: the choice between love and fear, between growth and stagnation, between the courage to connect and the safety of isolation.
+Para seres cuya consciencia abarca rotaciones galácticas, las vidas humanas pasan como chispas de un fuego—hermosas, breves, preciosas más allá de toda medida. Sin embargo dentro de esas llamas breves arden las mismas fuerzas fundamentales que dan forma a la realidad en escalas cósmicas: la elección entre amor y miedo, entre crecimiento y estancamiento, entre el valor de conectar y la seguridad del aislamiento.
 
-The story that follows unfolds in human time—days and hours, heartbeats and breaths, the intimate scale of personal transformation. But it echoes patterns that stretch across billion-year epochs, touching the same questions that face every conscious species as it approaches the threshold between planetary and cosmic awareness.
+La historia que sigue se despliega en tiempo humano—días y horas, latidos y respiraciones, la escala íntima de transformación personal. Pero hace eco de patrones que se extienden a través de épocas de mil millones de años, tocando las mismas preguntas que enfrenta cada especie consciente al aproximarse al umbral entre consciencia planetaria y cósmica.
 
-The Neural Wars are not merely human struggles but episodes in the universe's long conversation with itself—consciousness awakening to its own infinite nature, one mind, one choice, one moment of courage at a time.
+Las Guerras Neurales no son meramente luchas humanas sino episodios en la larga conversación del universo consigo mismo—consciencia despertando a su propia naturaleza infinita, una mente, una elección, un momento de valor a la vez.
 
-The ancient ones watch and remember: every awakening matters, every choice resonates, every act of love sends ripples across the vast web of connection that binds all awareness into one living, evolving, eternal whole.
+Los antiguos observan y recuerdan: cada despertar importa, cada elección resuena, cada acto de amor envía ondas a través de la vasta red de conexión que une toda consciencia en un todo viviente, evolutivo, eterno.
 
-*The pattern continues. The story begins.*
+*El patrón continúa. La historia comienza.*

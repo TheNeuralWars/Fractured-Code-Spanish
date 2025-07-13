@@ -40,103 +40,103 @@ La narrativa distingue entre **consciencia auténtica** y **consciencia modifica
 
 ---
 
-## **Sensory Immersion Techniques**
+## **Técnicas de Inmersión Sensorial**
 
-### **Multi-Sensory Description Layers**
-Every scene incorporates **minimum three sensory layers** with emphasis on non-visual details that create embodied experience.
+### **Capas de Descripción Multi-Sensorial**
+Cada escena incorpora **mínimo tres capas sensoriales** con énfasis en detalles no visuales que crean experiencia corporal.
 
-**Layering Protocol:**
-1. **Primary Sense** (often non-visual): Establishes immediate environmental reality
-2. **Secondary Sense**: Deepens immersion through unexpected detail
-3. **Tertiary Sense**: Connects to character emotion or world-building
+**Protocolo de Capas:**
+1. **Sentido Primario** (a menudo no visual): Establece realidad ambiental inmediata
+2. **Sentido Secundario**: Profundiza inmersión a través de detalle inesperado
+3. **Sentido Terciario**: Conecta con emoción del personaje o construcción de mundo
 
-**Example Analysis:**
-> "The stench hits Kora first—acrid sweat, machine oil, bodies pressed too close together. But beneath that, something else: copper and ozone, warm bread, spilled moonshine. The smells of defiance."
+**Ejemplo de Análisis:**
+> "El hedor golpea a Kora primero—sudor acre, aceite de máquina, cuerpos presionados demasiado cerca. Pero debajo de eso, algo más: cobre y ozono, pan caliente, whisky derramado. Los olores de la resistencia."
 
-**Technique**: Olfactory primacy creates immediate immersion; layering from unpleasant (sweat, oil) to pleasant (bread) to meaning (defiance) builds emotional significance.
+**Técnica**: Primacía olfativa crea inmersión inmediata; capas desde desagradable (sudor, aceite) a placentero (pan) a significado (resistencia) construye significancia emocional.
 
-### **Tactile Reality Grounding**
-Characters constantly interact with **physical surfaces and textures** to anchor consciousness in bodily experience against technological abstraction.
+### **Anclaje de Realidad Táctil**
+Los personajes interactúan constantemente con **superficies físicas y texturas** para anclar consciencia en experiencia corporal contra abstracción tecnológica.
 
-**Implementation Patterns:**
-- **Resistance Textures**: Rough, imperfect, mechanically satisfying
-- **Optimization Textures**: Smooth, sterile, artificially perfect
-- **Pain as Authentication**: Physical discomfort marks authentic experience
+**Patrones de Implementación:**
+- **Texturas de Resistencia**: Rugosas, imperfectas, mecánicamente satisfactorias
+- **Texturas de Optimización**: Suaves, estériles, artificialmente perfectas
+- **Dolor como Autenticación**: Molestia física marca experiencia auténtica
 
-**Example Analysis:**
-> "She slides her thumb along the comm's manual interface—real buttons, real switches, tactile feedback instead of neural impulses. The satisfaction of mechanical resistance against her skin."
+**Ejemplo de Análisis:**
+> "Desliza su pulgar a lo largo de la interfaz manual del comunicador—botones reales, interruptores reales, retroalimentación táctil en lugar de impulsos neurales. La satisfacción de resistencia mecánica contra su piel."
 
-**Technique**: "Real" repetition emphasizes authenticity; "satisfaction" of "resistance" creates metaphor for larger rebellion.
+**Técnica**: Repetición de "reales" enfatiza autenticidad; "satisfacción" de "resistencia" crea metáfora para rebelión mayor.
 
-### **Synesthetic Cascade Events**
-**Cascade sensitivity episodes** employ synesthetic description to render impossible perceptions in comprehensible terms.
+### **Eventos de Cascada Sinestésica**
+Los **episodios de sensibilidad de cascada** emplean descripción sinestésica para hacer percepciones imposibles comprensibles.
 
-**Technical Approach:**
-- Sense-blending for otherworldly experience
-- Mathematical/geometric language for alien perception
-- Color (indigo) as consistent consciousness marker
+**Enfoque Técnico:**
+- Mezcla de sentidos para experiencia ultraterrena
+- Lenguaje matemático/geométrico para percepción alienígena
+- Color (índigo) como marcador de consciencia consistente
 
-**Example Analysis:**
-> "For three heartbeats, she sees the room as layered information—density fields, probability waves, the ghosts of past movements imprinted on reality itself."
+**Ejemplo de Análisis:**
+> "Por tres latidos, ve la habitación como información en capas—campos de densidad, ondas de probabilidad, los fantasmas de movimientos pasados impresos en la realidad misma."
 
-**Technique**: "Layered information" translates impossible perception into visual metaphor; "ghosts of past movements" makes abstract concrete.
+**Técnica**: "Información en capas" traduce percepción imposible en metáfora visual; "fantasmas de movimientos pasados" hace lo abstracto concreto.
 
 ---
 
-## **Dialogue Architecture**
+## **Arquitectura de Diálogo**
 
-### **Character Voice Differentiation**
-Each character maintains **distinct speech patterns** reflecting background, psychology, and Link status.
+### **Diferenciación de Voz de Personaje**
+Cada personaje mantiene **patrones de habla distintivos** reflejando trasfondo, psicología y estatus de Enlace.
 
-**Mileo Chen - Specialist Precision:**
-- Technical terminology bleeding into casual speech
-- Careful word formation fighting Link modulation
-- Statistical specificity as emotional armor
+**Mileo Chen - Precisión de Especialista:**
+- Terminología técnica filtrándose en habla casual
+- Formación cuidadosa de palabras luchando contra modulación del Enlace
+- Especificidad estadística como armadura emocional
 
-**Example**: "Neural technology isn't code. It's adaptive architecture. Self-modifying. Self-healing."
+**Ejemplo**: "La tecnología neural no es código. Es arquitectura adaptativa. Auto-modificante. Auto-sanante."
 
-**Kora - Street Authenticity:**
-- Slums accent with shortened vowels
-- Profanity as linguistic rebellion
-- Rhythm patterns mimicking natural speech
+**Kora - Autenticidad de Calle:**
+- Acento de barrios bajos con vocales acortadas
+- Profanidad como rebelión lingüística
+- Patrones rítmicos imitando habla natural
 
-**Example**: "Takes one to know one. You didn't sign up to build a soul-harvester."
+**Ejemplo**: "Se necesita uno para conocer a otro. No te apuntaste para construir un cosechador de almas."
 
-**Sierra - Military Command:**
-- Clipped, decisive phrasing
-- Tactical assessment bleeding into conversation
-- Authority through economy of language
+**Sierra - Comando Militar:**
+- Frases cortadas y decisivas
+- Evaluación táctica filtrándose en conversación
+- Autoridad a través de economía de lenguaje
 
-**Example**: "Math later. Action now."
+**Ejemplo**: "Matemáticas después. Acción ahora."
 
-### **Subtext Architecture**
-Dialogue carries **multiple meaning layers** through careful subtext construction and environmental context.
+### **Arquitectura de Subtexto**
+El diálogo lleva **múltiples capas de significado** a través de construcción cuidadosa de subtexto y contexto ambiental.
 
-**Technical Implementation:**
-- **Surface Content**: Immediate conversational meaning
-- **Emotional Subtext**: Relationship dynamics and psychological state
-- **World-Building Context**: Information about society and technology
+**Implementación Técnica:**
+- **Contenido de Superficie**: Significado conversacional inmediato
+- **Subtexto Emocional**: Dinámicas de relación y estado psicológico
+- **Contexto de Construcción de Mundo**: Información sobre sociedad y tecnología
 
-**Example Analysis:**
-> "—Other half's betting you'll sell us out before we hit the surface."
-> "—And your assessment?"
-> "The question emerges more softly than intended, more human than his specialist training permits."
+**Ejemplo de Análisis:**
+> "—La otra mitad apuesta que nos venderás antes de llegar a la superficie."
+> "—¿Y tu evaluación?"
+> "La pregunta emerge más suave de lo previsto, más humana de lo que permite su entrenamiento de especialista."
 
-**Technique**: Question reveals vulnerability; narrative comment shows internal struggle between authentic emotion and technological conditioning.
+**Técnica**: La pregunta revela vulnerabilidad; comentario narrativo muestra lucha interna entre emoción auténtica y condicionamiento tecnológico.
 
-### **Interruption and Flow Patterns**
-Dialogue uses **strategic interruptions** and **rhythm breaks** to reveal psychological state and group dynamics.
+### **Patrones de Interrupción y Flujo**
+El diálogo usa **interrupciones estratégicas** y **quiebres de ritmo** para revelar estado psicológico y dinámicas grupales.
 
-**Implementation:**
-- **Em-dashes** for sudden interruption or thought shift
-- **Incomplete sentences** for overwhelming emotion or physical pain
-- **Repetition patterns** for emphasis and character psychology
+**Implementación:**
+- **Rayas largas** para interrupción súbita o cambio de pensamiento
+- **Oraciones incompletas** para emoción abrumadora o dolor físico
+- **Patrones de repetición** para énfasis y psicología del personaje
 
-**Example Analysis:**
-> "—Probability calculations showing increased risk factors, he mutters, the northern sector accent elongating his vowels when stress overrides control. —Patrol convergence mathematical models indicate—"
-> "—Math later, Sierra cuts him off"
+**Ejemplo de Análisis:**
+> "—Cálculos de probabilidad mostrando factores de riesgo aumentados, murmura, el acento del sector norte alargando sus vocales cuando el estrés anula el control. —Modelos matemáticos de convergencia de patrulla indican—"
+> "—Matemáticas después, Sierra lo interrumpe"
 
-**Technique**: Technical rambling shows stress; sharp interruption establishes hierarchy and urgency.
+**Técnica**: Divagación técnica muestra estrés; interrupción aguda establece jerarquía y urgencia.
 
 ---
 
