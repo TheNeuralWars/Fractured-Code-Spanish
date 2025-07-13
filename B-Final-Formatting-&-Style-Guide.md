@@ -1,53 +1,53 @@
-# Final Formatting & Style Guide
-## "The Neural Wars: Fractured Code" - Definitive Markdown Standards
+# Guía de Formato y Estilo Final
+## "Las Guerras Neurales: Código Fracturado" - Estándares Markdown Definitivos
 
-*Comprehensive formatting guide including scene tags, dialogue conventions, section breaks, hooks, key term emphasis, and layout rules with annotated examples and rationale.*
+*Guía integral de formato incluyendo etiquetas de escena, convenciones de diálogo, separaciones de sección, ganchos, énfasis de términos clave y reglas de diseño con ejemplos anotados y justificación.*
 
 ---
 
-## **Chapter Structure & Headers**
+## **Estructura de Capítulos y Encabezados**
 
-### **Chapter Titles**
-**Format**: `# [Number]: [THEMATIC TITLE]`
+### **Títulos de Capítulos**
+**Formato**: `# [Número]: [TÍTULO TEMÁTICO]`
 
-**Examples:**
-- `# 1: THRESHOLD`
-- `# 3: FRACTURE`  
-- `# EPILOGUE`
+**Ejemplos:**
+- `# 1: UMBRAL`
+- `# 3: FRACTURA`  
+- `# EPÍLOGO`
 
-**Rationale**: Single-word thematic titles create emotional impact and thematic cohesion. Numbers maintain structural clarity while themes suggest psychological journey.
+**Justificación**: Títulos temáticos de una palabra crean impacto emocional y cohesión temática. Los números mantienen claridad estructural mientras los temas sugieren viaje psicológico.
 
-### **Section Breaks within Chapters**
-**Format**: `---` (three em-dashes)
+### **Separaciones de Sección dentro de Capítulos**
+**Formato**: `---` (tres rayas largas)
 
-**Usage**: Separates major scene transitions, time jumps, or perspective shifts within the same chapter.
+**Uso**: Separa transiciones de escena principales, saltos de tiempo o cambios de perspectiva dentro del mismo capítulo.
 
-**Example**:
+**Ejemplo**:
 ```markdown
-Mileo traces one with his fingertip, feeling nothing but the chill radiating through the glass.
+Mileo traza una con su dedo, sintiendo solo el frío irradiando a través del vidrio.
 
 ---
 
-[Memory]
+[Memoria]
 
-*A small boy stands on tiptoes, reaching for a jar of colored pencils.*
+*Un niño pequeño se para en puntas de pie, alcanzando un frasco de lápices de colores.*
 ```
 
-**Rationale**: Clean visual separation maintains readability while allowing smooth narrative flow between related scenes.
+**Justificación**: Separación visual limpia mantiene legibilidad mientras permite flujo narrativo suave entre escenas relacionadas.
 
 ---
 
-## **Scene Tags & Atmospheric Markers**
+## **Etiquetas de Escena y Marcadores Atmosféricos**
 
-### **Scene Tag Format**
-**Format**: `[Tag][Additional Tags]`
+### **Formato de Etiqueta de Escena**
+**Formato**: `[Etiqueta][Etiquetas Adicionales]`
 
-**Placement**: Immediately following chapter header or section break
+**Colocación**: Inmediatamente siguiendo encabezado de capítulo o separación de sección
 
-**Core Tag Categories:**
-- **[Reflection]**: Internal character exploration, contemplative scenes
-- **[Action]**: Kinetic sequences, physical confrontation, urgency
-- **[Street]**: Resistance/Slums settings, underground atmosphere
+**Categorías de Etiquetas Centrales:**
+- **[Reflexión]**: Exploración interna de personaje, escenas contemplativas
+- **[Acción]**: Secuencias kinéticas, confrontación física, urgencia
+- **[Calle]**: Escenarios de resistencia/barrios bajos, atmósfera subterránea
 - **[Memory]**: Flashback sequences, recovered experiences
 - **[Cosmic]**: Architect perspective, vast consciousness, otherworldly elements
 
