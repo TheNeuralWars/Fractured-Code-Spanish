@@ -9,8 +9,14 @@
 
 **Fecha de Inicio**: [Fecha actual]
 **Estado**: En Progreso - Fase de Infraestructura
-**Archivos Totales**: 47 archivos para traducir
-**Completados**: 0/47 (0%)
+**Archivos Completados**: 7/47 (15% completado)
+
+### **Voces de Personajes Establecidas** ✅
+- **Mileo Chen**: Precisión técnica, registro formal, resistencia a modulación
+- **Kora**: Autenticidad urbana, vocabulario directo, inmersión sensorial
+- **Sierra Catalano**: Comando táctico, eficiencia militar, evaluación estratégica
+
+### **Progreso de Manuscrito**: 4/17 archivos (24% manuscrito principal)
 
 ---
 
@@ -40,13 +46,19 @@
 **Estado**: Pendiente
 **Prioridad**: Alta (verificación de diferenciación de voces)
 
-### **FC-02-Chapter.md** ⏳
-**Estado**: Pendiente
-**Notas**: Mencionado específicamente en requisitos
+### **FC-02-Chapter.md** ✅
+**Estado**: Completado
+**Traductor**: Agente AI
+**Notas**: Voz de Kora (autenticidad urbana) y contraste con Mileo establecido
 
-### **FC-03-Chapter.md** hasta **FC-16-Epilogue.md** ⏳
+### **FC-03-Chapter.md** ✅
+**Estado**: Completado
+**Traductor**: Agente AI
+**Notas**: Voz de Sierra (comando táctico) y dinámicas de resistencia establecidas
+
+### **FC-04-Chapter.md** hasta **FC-16-Epilogue.md** ⏳
 **Estado**: Pendiente
-**Total**: 15 archivos
+**Total**: 13 archivos
 
 ---
 
