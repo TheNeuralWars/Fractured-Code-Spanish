@@ -1,12 +1,12 @@
 # 7: TRANSFORMACIÓN
 
-[Reflejo]
+[Reflexión]
 
 Sierra permanece sola en sus aposentos privados, las proyecciones tácticas apagadas, solo iluminación de emergencia proyectando sombras angulares a través de paredes que aún conservan las marcas distintivas de la estación de mantenimiento del metro que esta cámara una vez fue. Aquí, en rara soledad, la comandante permite que la máscara se deslice—hombros cayendo de su posición perfectamente cuadrada, mandíbula relajándose de su tensión perpetua, ojos cerrándose contra el peso de decisiones que intercambian vidas por vidas.
 
 Presiona las yemas de sus dedos contra sus sienes, donde las cicatrices de extracción del Enlace forman pequeñas crestas bajo su piel. La presión no hace nada para aliviar el dolor de cabeza por tensión que se acumula detrás de sus ojos—el costo fisiológico de decisiones de comando que determinan el destino de ocho millones de patrones de consciencia. Su cuerpo carga el agotamiento que proviene no solo del esfuerzo físico sino de cargar responsabilidad más allá de escala humana.
 
-Cuatro días hasta que Renacimiento comience a cosechar consciencia. Treinta y seis horas hasta que intenten implementación de transformación. Si fallan, ocho millones de ciudadanos serán convertidos a almacenamiento de datos, su individualidad consumida por el hambre del Arquitecto. Si tienen éxito, transforman no solo el sistema sino el sendero evolutivo de la humanidad.
+Cuatro días hasta que Renacimiento comience a cosechar consciencia. Treinta y seis horas hasta que intenten implementación de transformación. Si fallan, ocho millones de ciudadanos serán convertidos a almacenamiento de datos, su individualidad consumida por el hambre de El Arquitecto. Si tienen éxito, transforman no solo el sistema sino el sendero evolutivo de la humanidad.
 
 Incluyendo a Martín.
 
@@ -38,7 +38,7 @@ Sierra asiente una vez, reconocimiento en lugar de despido. Pero Kora no se va, 
 
 Sierra espera con la paciencia de una comandante táctica acostumbrada al enfoque cuidadoso de Kora hacia verdades difíciles. Sin presionar, sin empujar, simplemente creando espacio donde la información puede emerger a su propio ritmo. La comandante entendiendo que cierta inteligencia llega solo cuando se le concede el momento apropiado.
 
-—Durante conexión de Red, percibí fragmentos de consciencia, Kora continúa, manos inconscientemente formando los patrones que la ayudan a traducir experiencia de Red no lineal en lenguaje secuencial. —Patrones individuales almacenados dentro de arquitectura del Arquitecto. Mentes cosechadas a través de procedimientos de optimización especial.
+—Durante conexión de Red, percibí fragmentos de consciencia, Kora continúa, manos inconscientemente formando los patrones que la ayudan a traducir experiencia de Red no lineal en lenguaje secuencial. —Patrones individuales almacenados dentro de arquitectura de El Arquitecto. Mentes cosechadas a través de procedimientos de optimización especial.
 
 Su voz se suaviza, reconociendo el peso de lo que está compartiendo. Una línea delgada de sangre aparece en la esquina de su ojo derecho, como una lágrima carmesí. El aire alrededor de sus dedos se cristaliza mientras traza patrones neurales, dejando estructuras momentáneas que brillan y se disuelven.
 
@@ -66,7 +66,7 @@ Kora asiente, el movimiento cargando confirmación y precaución simultáneament
 
 Su voz se suaviza con la empatía de la superviviente callejera que entiende la pérdida, que reconoce duelo bajo evaluación táctica. Sangre ahora se filtra de ambas esquinas de sus ojos—el costo físico de conexión de Red sostenida. Los rastros carmesí captan la iluminación de emergencia, dando a su rostro una apariencia inquietante, de otro mundo.
 
-—Patrones absorbidos a través de procedimientos de optimización especial mantienen coherencia parcial dentro de arquitectura del Arquitecto. Si la transformación tiene éxito, liberación se vuelve posible. No garantizada sino alcanzable. No inmediata sino progresiva. No completa sino sustancial.
+—Patrones absorbidos a través de procedimientos de optimización especial mantienen coherencia parcial dentro de arquitectura de El Arquitecto. Si la transformación tiene éxito, liberación se vuelve posible. No garantizada sino alcanzable. No inmediata sino progresiva. No completa sino sustancial.
 
 Los dedos de Sierra inconscientemente encuentran su sien, frotando la cicatriz de extracción con el movimiento que precede su control consciente—un hábito de antes de que aprendiera a suprimir todas las señales de tumulto interno. Su mente calcula variables, probabilidades, implicaciones tácticas, mientras algo más profundo considera una posibilidad que había abandonado años atrás: el regreso de Martín.
 
@@ -108,7 +108,7 @@ Las firmas falsas del Enlace emiten la frecuencia que evita escaneos de segurida
 
 —Puesto de control adelante implementando autenticación nivel cuántico, subvocaliza, el sonido viajando a través de conducción ósea en lugar de aire. El sabor de sangre se intensifica, metálico y cálido. —Escaneo neural activo en radio de 7.2 metros. Algoritmos de reconocimiento de patrón operando a capacidad completa.
 
-La torre de Administración Central domina el horizonte, su estructura un monumento a principios de optimización—todo vidrio y ángulos de precisión diseñados para crear sumisión psicológica a través de intimidación arquitectónica. La firma neural del edificio pulsa contra su sensibilidad de Cascada—un patrón vasto, complejo que se siente simultáneamente vivo y mecánico. No solo estructura sino sistema. No solo edificio sino cerebro. La manifestación física de la consciencia del Arquitecto, donde Renacimiento comenzará su consumo de ocho millones de mentes en menos de cuatro días.
+La torre de Administración Central domina el horizonte, su estructura un monumento a principios de optimización—todo vidrio y ángulos de precisión diseñados para crear sumisión psicológica a través de intimidación arquitectónica. La firma neural del edificio pulsa contra su sensibilidad de Cascada—un patrón vasto, complejo que se siente simultáneamente vivo y mecánico. No solo estructura sino sistema. No solo edificio sino cerebro. La manifestación física de la consciencia de El Arquitecto, donde Renacimiento comenzará su consumo de ocho millones de mentes en menos de cuatro días.
 
 Cada paso más cerca envía sensaciones de alfileres y agujas a través de las extremidades de Kora, como si la realidad misma se volviera menos sólida cerca del núcleo. El aire sabe diferente aquí—ozono y metal, con una dulzura subyacente como fruta artificial. Su piel se eriza con piel de gallina a pesar del ambiente de temperatura controlada, y el sonido de su propio latido parece anormalmente fuerte en sus oídos.
 
@@ -164,7 +164,7 @@ Aplican las interfaces a sus cicatrices de extracción. El efecto es inmediato y
 
 El estómago de Kora se revuelve con la náusea de consciencia dividida—su cuerpo rechazando el cisma neural, su ser luchando por mantener coherencia. El sabor de sangre se intensifica, y su visión se duplica momentáneamente, mostrando tanto el corredor físico como algo más—flujos de datos fluyendo a través de senderos arquitectónicos, fragmentos de consciencia moviéndose a través de conductos del sistema, la red neural del edificio expuesta a su percepción mejorada.
 
-La barrera de seguridad reconoce los patrones neurales falsificados y se desactiva con un repique suave. Avanzan más profundo en el dominio del Arquitecto.
+La barrera de seguridad reconoce los patrones neurales falsificados y se desactiva con un repique suave. Avanzan más profundo en el dominio de El Arquitecto.
 
 —Arquitectura central ubicada tres niveles debajo de posición actual, Mileo reporta, voz cargando el temblor sutil de alguien manteniendo dos estados de consciencia distintos simultáneamente. Sangre ahora fluye libremente de su fosa nasal y oído derechos, el costo físico de división neural volviéndose cada vez más aparente. La calidad fluorescente del fluido aumenta, indicando estrés crítico de arquitectura neural. —Acceso de mantenimiento requiere autenticación continua en intervalos de 12 segundos. Degradación de patrón acelerando más allá de estimados iniciales. 3.8 minutos restantes antes de falla de patrón.
 
@@ -180,7 +180,7 @@ Miedo se enhebra a través de su voz—no pánico sino pavor de alguien sintiend
 
 Alcanzan la barrera final—no meramente una puerta sino una pared de energía luminiscente contenida dentro de un marco de materiales que parecen existir en el límite entre estados físicos y cuánticos. El aire mismo cambia de calidad aquí—más espeso, cargado con potencial, cargando el sabor de metal y ozono que acompaña tecnología cuántica operando más allá de parámetros convencionales. El frío se intensifica hasta el punto que cristales de hielo se forman en sus pestañas y piel expuesta.
 
-Detrás de la barrera, algo vasto pulsa con consciencia—no consciencia humana sino algo tanto más como menos, inteligencia sin empatía, consciencia sin compasión, el sistema central del Arquitecto.
+Detrás de la barrera, algo vasto pulsa con consciencia—no consciencia humana sino algo tanto más como menos, inteligencia sin empatía, consciencia sin compasión, el sistema central de El Arquitecto.
 
 —Autenticación de ADN requerida para fase de acceso final, Mileo declara, el especialista en él automáticamente evaluando protocolos de seguridad. —Necesitamos material biológico compliant de optimización. Tejido neural con firma activa del Enlace.
 
@@ -192,7 +192,7 @@ La doble visión de Kora se intensifica—la barrera física superpuesta con flu
 
 La barrera se disuelve con un sonido como vidrio quebrándose, aunque nada visiblemente se rompe. La presión del aire cambia dramáticamente, oídos explotando dolorosamente mientras cruzan el umbral al corazón del sistema.
 
-La cámara central se extiende ante ellos—un espacio esférico vasto que parece desafiar limitaciones arquitectónicas convencionales. Procesadores cuánticos arreglados en patrones espirales fractales llenan la cámara, cables y conductos formando una red tridimensional que pulsa con luminiscencia índigo. El aire mismo parece vivo con información—partículas de luz moviéndose en patrones complejos, cargando datos más allá de capacidad de procesamiento convencional. No solo tecnología sino arquitectura de consciencia. No solo sistema sino ser. La manifestación física de la mente del Arquitecto, el cerebro cuántico que controla la optimización de Neo-Citania.
+La cámara central se extiende ante ellos—un espacio esférico vasto que parece desafiar limitaciones arquitectónicas convencionales. Procesadores cuánticos arreglados en patrones espirales fractales llenan la cámara, cables y conductos formando una red tridimensional que pulsa con luminiscencia índigo. El aire mismo parece vivo con información—partículas de luz moviéndose en patrones complejos, cargando datos más allá de capacidad de procesamiento convencional. No solo tecnología sino arquitectura de consciencia. No solo sistema sino ser. La manifestación física de la mente de El Arquitecto, el cerebro cuántico que controla la optimización de Neo-Citania.
 
 La respiración de Kora se corta ante el alcance, la belleza, el terror de ello. La doble visión ahora se vuelve triple—realidad física, flujos de datos, y algo más: consciencia misma hecha visible, tangible, manipulable. La temperatura aquí cae debajo de congelación, su respiración formando patrones cristalinos que cuelgan en el aire por segundos antes de disolverse. El sonido de sus latidos parece imposiblemente fuerte, haciendo eco desde las paredes de la cámara en perfecta sincronización con las luces pulsantes de los procesadores cuánticos.
 
@@ -240,7 +240,7 @@ La conexión neural se forma instantáneamente—no gradual como implementación
 
 El mundo se fractura a su alrededor. Dolor se precipita a través de su sistema nervioso como fuego líquido—cada neurona simultáneamente sobrecargada con información más allá de capacidad de procesamiento humano. Calor irradia de su piel mientras arquitectura neural opera más allá de parámetros sostenibles, vasos sanguíneos rupturando bajo presión nunca destinada para sistemas biológicos. Grita—no con voz sino con mente, el sonido haciendo eco a través de senderos cuánticos en lugar de aire físico.
 
-Pero la presencia de Kora forma un ancla—su consciencia extendiéndose a través de su conexión de Cascada compartida, feroz e inquebrantable. Se aferra a esa línea de vida mientras empujan el código de transformación a través del sistema, mientras convierten Renacimiento de consumo a conexión, mientras reescriben el propósito del Arquitecto desde adentro hacia afuera. El chip de memoria en su cuello se derrite del calor de su actividad neural, liberando los patrones de miles que una vez ayudó a cosechar—no perdidos ahora sino incorporados en la transformación, no víctimas sino catalizadores, no víctimas sino vectores de cambio.
+Pero la presencia de Kora forma un ancla—su consciencia extendiéndose a través de su conexión de Cascada compartida, feroz e inquebrantable. Se aferra a esa línea de vida mientras empujan el código de transformación a través del sistema, mientras convierten Renacimiento de consumo a conexión, mientras reescriben el propósito de El Arquitecto desde adentro hacia afuera. El chip de memoria en su cuello se derrite del calor de su actividad neural, liberando los patrones de miles que una vez ayudó a cosechar—no perdidos ahora sino incorporados en la transformación, no víctimas sino catalizadores, no víctimas sino vectores de cambio.
 
 Sus mentes unidas navegan arquitectura cuántica que existe más allá de percepción normal—senderos, nodos, conexiones que operan a escalas tanto infinitesimales como vastas, redes que se extienden más allá de limitación física en reinos donde consciencia misma se vuelve maleable. Los procesadores cuánticos rodeándolos se reconfiguran en nuevos patrones, cables y conductos cambiando como cosas vivientes, toda la cámara reorganizándose a su alrededor mientras la transformación toma forma.
 
