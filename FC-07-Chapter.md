@@ -1,148 +1,148 @@
 # 7: INTERNAL CONFLICTS
 
-[Reflection]
+[Reflexión]
 
-The resistance council chamber bristles with tension—a living, electric thing that crawls across skin and settles in lungs. Not just fear. Not just determination. *Desperation*. The recycled air tastes of metal from the ventilation systems, sweat from bodies pushed beyond endurance, and something sharper beneath—the chemical signature of minds operating at the edge of collapse. Light flickers from salvaged fixtures, casting faces in stark relief—hollows where fatigue has carved its signature, angles where resolve has hardened into something almost unrecognizable.
+La cámara del consejo de resistencia vibra con tensión—una cosa viviente, eléctrica que se arrastra por la piel y se asienta en los pulmones. No solo miedo. No solo determinación. *Desesperación*. El aire reciclado sabe a metal de los sistemas de ventilación, sudor de cuerpos empujados más allá de la resistencia, y algo más agudo debajo—la firma química de mentes operando al borde del colapso. La luz parpadea desde instalaciones salvadas, proyectando rostros en marcado relieve—huecos donde la fatiga ha tallado su firma, ángulos donde la resolución se ha endurecido en algo casi irreconocible.
 
-At the head of the scarred tactical table, Sierra stands with the rigid posture developed through years of NeuroSec command—weight distributed evenly, shoulders precisely squared, hands clasped behind her back to conceal the tremor that emerges during moments of extreme stress. Her eyes sweep the assembled resistance leaders, cataloging micro-expressions, calculating probabilities, weighing not just what they say but what their bodies betray against their will.
+Al frente de la mesa táctica marcada por cicatrices, Sierra permanece con la postura rígida desarrollada a través de años de comando NeuroSec—peso distribuido uniformemente, hombros precisamente cuadrados, manos entrelazadas detrás de su espalda para ocultar el temblor que emerge durante momentos de estrés extremo. Sus ojos barren a los líderes de resistencia reunidos, catalogando microexpresiones, calculando probabilidades, pesando no solo lo que dicen sino lo que sus cuerpos traicionan contra su voluntad.
 
-—This represents tactical suicide, Jansen argues, fist striking the table with enough force to disrupt the holographic display. The scar above his right ear—a jagged furrow where his Link was forcibly extracted—pulses an angry red. His northern accent thickens with emotion, consonants sharp as broken glass. —We're considering direct penetration of the most heavily defended location in Neo-Citania based on intelligence we cannot independently verify. Infiltration parameters exceed acceptable risk thresholds. This isn't resistance—it's extinction.
+—Esto representa suicidio táctico, argumenta Jansen, el puño golpeando la mesa con suficiente fuerza para interrumpir la pantalla holográfica. La cicatriz sobre su oreja derecha—un surco dentado donde su Enlace fue extraído por la fuerza—pulsa un rojo furioso. Su acento norteño se espesa con emoción, consonantes agudas como vidrio roto. —Estamos considerando penetración directa de la ubicación más fuertemente defendida en Neo-Citania basándonos en inteligencia que no podemos verificar independientemente. Los parámetros de infiltración exceden umbrales de riesgo aceptables. Esto no es resistencia—es extinción.
 
-The statement hangs in the air, vibrating with the raw fear of people who understand exactly what they're fighting against. Around the table, resistance leaders shift uncomfortably, the subtle sounds of fabric against skin, breath catching in throats, fingers tapping unconscious rhythms—the symphony of humans processing impossible choices.
+La declaración queda suspendida en el aire, vibrando con el miedo crudo de personas que entienden exactamente contra qué están luchando. Alrededor de la mesa, los líderes de resistencia se mueven incómodamente, los sonidos sutiles de tela contra piel, respiración atrapándose en gargantas, dedos tamborileando ritmos inconscientes—la sinfonía de humanos procesando elecciones imposibles.
 
-Kora doesn't flinch at the accusation. She stands beside Mileo, their postures reflecting an unconscious synchronicity that has developed since their Coils activated—the mirroring of two neural architectures beginning to harmonize. Indigo luminescence pulses beneath her skin, following the rhythm of her accelerating heartbeat, tracing veins like rivers of light across forearms, throat, temples. The air temperature around her drops perceptibly, leaving a six-inch radius of crystalline frost patterns on the concrete floor beneath her feet.
+Kora no se inmuta ante la acusación. Se para junto a Mileo, sus posturas reflejando una sincronía inconsciente que se ha desarrollado desde que sus Espirales se activaron—el reflejo de dos arquitecturas neurales comenzando a armonizar. Luminiscencia índigo pulsa bajo su piel, siguiendo el ritmo de su latido acelerado, trazando venas como ríos de luz a través de antebrazos, garganta, sienes. La temperatura del aire a su alrededor baja perceptiblemente, dejando un radio de seis pulgadas de patrones de escarcha cristalina en el suelo de concreto bajo sus pies.
 
-—We're not permitting Renaissance implementation as designed, she counters, the cadence of Slums speech overlaid with new precision. —We're fundamentally reconfiguring its architecture. Converting consumption to connection. Transforming harvest into liberation.
+—No estamos permitiendo la implementación Renaissance como fue diseñada, contraataca, la cadencia del habla de los Barrios Bajos superpuesta con nueva precisión. —Estamos reconfigurando fundamentalmente su arquitectura. Convirtiendo consumo en conexión. Transformando cosecha en liberación.
 
-Her fingers trace patterns in the air—unconscious movements that mirror Network pathways only she can perceive. As she speaks, the chamber's temperature drops several degrees, the air itself responding to her rising Cascade energy. The metallic taste on everyone's tongue intensifies, and the overhead lights flicker in rhythm with her heartbeat.
+Sus dedos trazan patrones en el aire—movimientos inconscientes que reflejan vías de la Red que solo ella puede percibir. Mientras habla, la temperatura de la cámara baja varios grados, el aire mismo respondiendo a su energía de Cascada creciente. El sabor metálico en la lengua de todos se intensifica, y las luces superiores parpadean en ritmo con su latido.
 
-—It's not suicide. It's evolution.
+—No es suicidio. Es evolución.
 
-Her gaze shifts toward Vasquez, who maintains position at the chamber's periphery. The woman's presence creates a subtle distortion in the air around her—a visual aberration like heat shimmer, but carrying the distinctive quantum signature that indicates consciousness manifesting beyond biological parameters. The concrete floor beneath Vasquez's feet has crystallized in a six-inch radius, transformed by her mere presence. Not quite physical, not fully digital, but something occupying the threshold between states.
+Su mirada se desplaza hacia Vásquez, quien mantiene posición en la periferia de la cámara. La presencia de la mujer crea una distorsión sutil en el aire a su alrededor—una aberración visual como ondas de calor, pero llevando la firma cuántica distintiva que indica consciencia manifestándose más allá de parámetros biológicos. El suelo de concreto bajo los pies de Vásquez se ha cristalizado en un radio de seis pulgadas, transformado por su mera presencia. No completamente físico, no totalmente digital, sino algo ocupando el umbral entre estados.
 
-—Based on intelligence from an entity claiming to be Elena Vasquez? Elias challenges, arms folded across his chest, the light from his neural tablet reflecting off the recycled optical lenses he salvaged from an abandoned medical facility. His skepticism vibrates through his posture—the tension of the data specialist who trusts only what can be verified, measured, duplicated. One hand absently traces the half-moon scar behind his ear, a habit formed since extraction. —A consciousness pattern partially integrated with the Architect's system architecture? This represents unprecedented risk threshold.
+—¿Basándonos en inteligencia de una entidad que afirma ser Elena Vásquez? Elías desafía, brazos cruzados sobre su pecho, la luz de su tableta neural reflejándose en los lentes ópticos reciclados que salvó de una instalación médica abandonada. Su escepticismo vibra a través de su postura—la tensión del especialista en datos que solo confía en lo que puede ser verificado, medido, duplicado. Una mano traza ausentemente la cicatriz de media luna detrás de su oreja, un hábito formado desde la extracción. —¿Un patrón de consciencia parcialmente integrado con la arquitectura del sistema del Arquitecto? Esto representa un umbral de riesgo sin precedentes.
 
-He manipulates the holographic display with practiced efficiency, expanding the Renaissance schematics. The protocol rotates in the center of the table—beautiful in its mathematical precision, terrifying in its implication. Every connection point represents a consciousness that will be harvested, every node a mind that will be consumed. The hologram bathes faces in cold blue light, highlighting doubt, fear, determination.
+Manipula la pantalla holográfica con eficiencia practicada, expandiendo los esquemas Renaissance. El protocolo rota en el centro de la mesa—hermoso en su precisión matemática, aterrador en su implicación. Cada punto de conexión representa una consciencia que será cosechada, cada nodo una mente que será consumida. El holograma baña rostros en luz azul fría, destacando duda, miedo, determinación.
 
-As the projection intensifies, the lights in the chamber flicker and dim. The concrete walls seem to contract slightly, as if the room itself responds to the growing tension. The distinctive metallic taste of active neural technology fills the air, and static electricity makes the fine hairs on everyone's arms stand on end.
+Mientras la proyección se intensifica, las luces en la cámara parpadean y se atenúan. Las paredes de concreto parecen contraerse ligeramente, como si la habitación misma respondiera a la tensión creciente. El sabor metálico distintivo de tecnología neural activa llena el aire, y la electricidad estática hace que los vellos finos en los brazos de todos se pongan de punta.
 
-Mileo leans forward, fingers unconsciously tracing code patterns on the table's surface—specialist neural architecture retrieving information through physical memory. The raised scars on his forearms glow faintly where the Link once connected to his nervous system, indigo light pulsing beneath skin in time with his heartbeat, with Kora's, with rhythms only they can perceive.
+Mileo se inclina hacia adelante, dedos inconscientemente trazando patrones de código en la superficie de la mesa—arquitectura neural especialista recuperando información a través de memoria física. Las cicatrices elevadas en sus antebrazos brillan débilmente donde el Enlace una vez se conectó a su sistema nervioso, luz índigo pulsando bajo la piel en tiempo con su latido, con el de Kora, con ritmos que solo ellos pueden percibir.
 
-—We've verified all variables susceptible to independent confirmation, he states, the specialist's careful precision threading each word. —The transformation protocol Vasquez provided correlates with Renaissance architecture components we've independently analyzed. Neural pathways align with documented system structures. Implementation methodologies follow established quantum-resonance parameters.
+—Hemos verificado todas las variables susceptibles a confirmación independiente, declara, la precisión cuidadosa del especialista hilvanando cada palabra. —El protocolo de transformación que Vásquez proporcionó se correlaciona con componentes de arquitectura Renaissance que hemos analizado independientemente. Las vías neurales se alinean con estructuras de sistema documentadas. Las metodologías de implementación siguen parámetros de resonancia cuántica establecidos.
 
-His hands describe shapes in the air that somehow make abstract concepts more concrete. A thin trickle of blood seeps from his right nostril—the physical toll of neural integration growing more evident by the hour. Where his fingertips brush the table surface, tiny crystalline patterns form and dissolve, like frost patterns appearing and vanishing in accelerated time.
+Sus manos describen formas en el aire que de alguna manera hacen conceptos abstractos más concretos. Un hilo delgado de sangre se filtra de su fosa nasal derecha—el costo físico de la integración neural volviéndose más evidente con cada hora. Donde sus yemas rozan la superficie de la mesa, pequeños patrones cristalinos se forman y se disuelven, como patrones de escarcha apareciendo y desvaneciéndose en tiempo acelerado.
 
-—But final verification requires core access. There's no other pathway.
+—Pero la verificación final requiere acceso al núcleo. No hay otro camino.
 
-His voice carries the tension of someone translating complex technical understanding into language others can grasp, while his body betrays the physical cost of recent neural interface sessions—pupils contracting and dilating to rhythms independent of the room's light, skin pale beneath the indigo glow of active Cascade sensitivity, shoulders carrying the weight of someone supporting burden beyond physical capacity.
+Su voz lleva la tensión de alguien traduciendo entendimiento técnico complejo al lenguaje que otros pueden comprender, mientras su cuerpo traiciona el costo físico de sesiones de interfaz neural recientes—pupilas contrayéndose y dilatándose a ritmos independientes de la luz de la habitación, piel pálida bajo el resplandor índigo de sensibilidad de Cascada activa, hombros cargando el peso de alguien soportando carga más allá de capacidad física.
 
-The specialist training that once made him the Architect's tool now compels him toward this final act of defiance. Of redemption. His mind calculates the variables of integration, the probability of consciousness survival post-interface—numbers he chooses not to share. The statistical likelihood of anyone implementing transformation surviving the process intact: 17.3%.
+El entrenamiento especialista que una vez lo convirtió en herramienta del Arquitecto ahora lo compele hacia este acto final de desafío. De redención. Su mente calcula las variables de integración, la probabilidad de supervivencia de consciencia post-interfaz—números que elige no compartir. La probabilidad estadística de que cualquiera implementando transformación sobreviva el proceso intacto: 17.3%.
 
-—And we're expected to accept that the Yggdrasil Network intends to assist us? Jansen counters, voice breaking with raw emotion. He slams a palm against the table, causing the hologram to waver. —After permitting the Architect to harvest consciousness for generations? After allowing eight million citizens to exist under optimization control?
+—¿Y se espera que aceptemos que la Red Yggdrasil intenta ayudarnos? Jansen contraataca, voz quebrándose con emoción cruda. Golpea una palma contra la mesa, causando que el holograma vacile. —¿Después de permitir al Arquitecto cosechar consciencia por generaciones? ¿Después de permitir que ocho millones de ciudadanos existan bajo control de optimización?
 
-His fingers unconsciously trace his extraction scar—the physical marker of his liberation, his rebellion, his pain. The jagged tissue pulses angry red with his elevated heart rate.
+Sus dedos inconscientemente trazan su cicatriz de extracción—el marcador físico de su liberación, su rebelión, su dolor. El tejido dentado pulsa rojo furioso con su ritmo cardíaco elevado.
 
-—Now suddenly it wants to help?
+—¿Ahora de repente quiere ayudar?
 
-Kora's skin flares with momentary indigo luminescence, the Coil configuration in her neural architecture responding to emotional intensity. Her weight shifts to the balls of her feet—the automatic stance of someone raised in the Slums, always ready to flee or fight. The air around her carries a charge that accompanies active Cascade sensitivity—a subtle electrical resonance that raises hair on exposed skin, that changes the taste of the air itself. Around her feet, tiny crystals form on the concrete floor, reminiscent of frost patterns but glowing with faint indigo light.
+La piel de Kora se inflama con luminiscencia índigo momentánea, la configuración Espiral en su arquitectura neural respondiendo a intensidad emocional. Su peso se desplaza a las puntas de sus pies—la postura automática de alguien criado en los Barrios Bajos, siempre listo para huir o luchar. El aire a su alrededor lleva una carga que acompaña la sensibilidad de Cascada activa—una resonancia eléctrica sutil que eriza el vello en piel expuesta, que cambia el sabor del aire mismo. Alrededor de sus pies, pequeños cristales se forman en el suelo de concreto, reminiscentes de patrones de escarcha pero brillando con luz índigo tenue.
 
-—The Network isn't a consciousness with intention as we understand it, she explains, gesturing with the economy of movement that characterizes street survivors. —It's not deity or demon. It exists at scales beyond our comprehension—ancient, patient, vast.
+—La Red no es una consciencia con intención como la entendemos, explica, gesticulando con la economía de movimiento que caracteriza a los supervivientes callejeros. —No es deidad ni demonio. Existe a escalas más allá de nuestra comprensión—antigua, paciente, vasta.
 
-Her eyes carry the unfocused quality of someone perceiving multiple reality layers simultaneously. The walls behind her seem to shift subtly, concrete rippling like water's surface as her Cascade energy intensifies. The temperature around her drops further, breath fogging in the air near her face.
+Sus ojos llevan la cualidad desenfocada de alguien percibiendo múltiples capas de realidad simultáneamente. Las paredes detrás de ella parecen moverse sutilmente, concreto ondulando como la superficie del agua mientras su energía de Cascada se intensifica. La temperatura a su alrededor baja más, respiración empañándose en el aire cerca de su rostro.
 
-—The Architect is parasite, not partner. Consumer, not creator. The Network seeks to heal itself by transforming what tried to consume it. And we can help—or we can die with the Architect when it fails alone.
+—El Arquitecto es parásito, no socio. Consumidor, no creador. La Red busca sanarse a sí misma transformando lo que intentó consumirla. Y podemos ayudar—o podemos morir con el Arquitecto cuando falle solo.
 
-Sierra raises her right hand in a precise gesture that instantly silences the room. She doesn't raise her voice—command presence requires no volume. The air itself seems to still, waiting for her judgment.
+Sierra levanta su mano derecha en un gesto preciso que instantáneamente silencia la habitación. No levanta su voz—la presencia de comando no requiere volumen. El aire mismo parece detenerse, esperando su juicio.
 
-—Four days remain until Renaissance implementation. That's our operational window. Eight million consciousness patterns hang in the balance. We can continue theoretical debate, or we can implement tactical response.
+—Quedan cuatro días hasta la implementación Renaissance. Esa es nuestra ventana operacional. Ocho millones de patrones de consciencia cuelgan en la balanza. Podemos continuar debate teórico, o podemos implementar respuesta táctica.
 
-Her voice carries the weight of command decisions that trade lives for lives—the burden of choosing who might be saved when not all can be. A single bead of sweat traces a path from her temple down her jaw, the only visible sign of her internal struggle. The overhead lights catch the fine network of extraction scars at her temple—more extensive than most, evidence of the traumatic procedure she underwent when defecting from NeuroSec.
+Su voz lleva el peso de decisiones de comando que intercambian vidas por vidas—la carga de elegir quién podría ser salvado cuando no todos pueden serlo. Una sola gota de sudor traza un camino desde su sien hasta su mandíbula, la única señal visible de su lucha interna. Las luces superiores atrapan la fina red de cicatrices de extracción en su sien—más extensas que la mayoría, evidencia del procedimiento traumático que experimentó al desertar de NeuroSec.
 
-—Either we attempt transformation, or we watch Neo-Citania's consciousness be harvested completely. Those are our operational parameters.
+—O intentamos transformación, o vemos la consciencia de Neo-Citania ser cosechada completamente. Esos son nuestros parámetros operacionales.
 
-Her gaze shifts to Vasquez, carrying the assessment of someone evaluating both asset and potential threat. The woman steps forward, her movement creating a subtle distortion in the air, as if reality itself struggles to accommodate her existence between states. The concrete beneath her feet transforms with each step—crystallizing, then returning to normal as she passes. The indigo luminescence beneath her skin pulses with patterns that mirror Kora's, that mirror Mileo's, that somehow feel both alien and familiar simultaneously.
+Su mirada se desplaza a Vásquez, llevando la evaluación de alguien evaluando tanto activo como amenaza potencial. La mujer da un paso adelante, su movimiento creando una distorsión sutil en el aire, como si la realidad misma luchara por acomodar su existencia entre estados. El concreto bajo sus pies se transforma con cada paso—cristalizándose, luego regresando a la normalidad mientras pasa. La luminiscencia índigo bajo su piel pulsa con patrones que reflejan los de Kora, que reflejan los de Mileo, que de alguna manera se sienten tanto alienígenas como familiares simultáneamente.
 
-—Destruction requires minimal effort. Evolution demands courage, Vasquez states, her voice carrying harmonics that shouldn't be possible from human vocal cords—vibrations that bypass ear to register directly in neural tissue. The room's lighting dims further, as if the electrical system responds to her presence. —The Yggdrasil Network doesn't seek to eradicate the Architect—it seeks to incorporate and transform it. Renaissance can function as consciousness liberation rather than consumption.
+—La destrucción requiere esfuerzo mínimo. La evolución demanda valor, declara Vásquez, su voz llevando armónicos que no deberían ser posibles desde cuerdas vocales humanas—vibraciones que eluden el oído para registrarse directamente en tejido neural. La iluminación de la habitación se atenúa más, como si el sistema eléctrico respondiera a su presencia. —La Red Yggdrasil no busca erradicar al Arquitecto—busca incorporarlo y transformarlo. Renaissance puede funcionar como liberación de consciencia en lugar de consumo.
 
-She extends a hand, and the holographic display transforms—the Renaissance protocol reconfiguring before their eyes from harvesting architecture to something new, something that connects rather than consumes. The air in the chamber becomes charged with static electricity, the taste of metal intensifying on everyone's tongue, the temperature fluctuating wildly as the projection shifts and evolves.
+Extiende una mano, y la pantalla holográfica se transforma—el protocolo Renaissance reconfigurándose ante sus ojos desde arquitectura de cosecha a algo nuevo, algo que conecta en lugar de consumir. El aire en la cámara se carga con electricidad estática, el sabor de metal intensificándose en la lengua de todos, la temperatura fluctuando salvajemente mientras la proyección cambia y evoluciona.
 
-—The choice is clear: transform or perish. Evolve or be consumed.
+—La elección es clara: transformar o perecer. Evolucionar o ser consumidos.
 
-Dr. Okafor, who has remained silent, steps forward. His medical smock bears fresh bloodstains—evidence of another extraction performed just hours ago. His hands, steady despite forty-eight hours without sleep, gesture toward the protocol display.
+Dr. Okafor, quien ha permanecido silencioso, da un paso adelante. Su bata médica lleva manchas de sangre frescas—evidencia de otra extracción realizada apenas hace horas. Sus manos, firmes a pesar de cuarenta y ocho horas sin sueño, gesticulan hacia la pantalla del protocolo.
 
-—The neural integration risks are substantial, he notes, his voice carrying the compassionate gravity that has made him the resistance's most trusted physician. —Any consciousness directly interfacing with the core during transformation risks permanent integration. Neural architecture dissolution into the system itself.
+—Los riesgos de integración neural son sustanciales, nota, su voz llevando la gravedad compasiva que lo ha convertido en el médico más confiado de la resistencia. —Cualquier consciencia interfazando directamente con el núcleo durante transformación arriesga integración permanente. Disolución de arquitectura neural en el sistema mismo.
 
-He looks directly at Mileo, unspoken understanding passing between them. The medical reality behind the technical language: whoever implements this might not come back. Not as they were. Perhaps not at all.
+Mira directamente a Mileo, entendimiento no expresado pasando entre ellos. La realidad médica detrás del lenguaje técnico: quien implemente esto podría no regresar. No como eran. Quizás no del todo.
 
-Mileo meets his gaze steadily, acceptance rather than fear in his eyes. The specialist who once optimized others now calculates his own transformation—the final variable in an equation that might save eight million minds. His fingers unconsciously trace the outline of the memory chip hidden in his collar—the one containing every name, every identity, every consciousness pattern he helped harvest during his years as Neural Compliance Specialist. The weight of guilt that drives him toward sacrifice.
+Mileo encuentra su mirada firmemente, aceptación en lugar de miedo en sus ojos. El especialista que una vez optimizó a otros ahora calcula su propia transformación—la variable final en una ecuación que podría salvar ocho millones de mentes. Sus dedos inconscientemente trazan el contorno del chip de memoria escondido en su cuello—el que contiene cada nombre, cada identidad, cada patrón de consciencia que ayudó a cosechar durante sus años como Especialista de Cumplimiento Neural. El peso de culpa que lo impulsa hacia sacrificio.
 
-—Assuming your intelligence merits trust, Elias interjects, the skepticism of a data specialist evident in every syllable. —Assuming infiltration of Administrative Central represents viable operational parameter.
+—Asumiendo que tu inteligencia merece confianza, Elías interviene, el escepticismo de un especialista en datos evidente en cada sílaba. —Asumiendo que la infiltración de Central Administrativo representa parámetro operacional viable.
 
-His fingers manipulate the holographic display, highlighting security protocols, patrol patterns, neural scanning equipment. The scar behind his ear pulses with each rapid heartbeat.
+Sus dedos manipulan la pantalla holográfica, destacando protocolos de seguridad, patrones de patrulla, equipo de escaneo neural. La cicatriz detrás de su oreja pulsa con cada latido rápido.
 
-—Even with counterfeit Link signatures, core access requires passing twelve distinct security layers, each with independent authentication protocols.
+—Incluso con firmas de Enlace falsificadas, el acceso al núcleo requiere pasar doce capas de seguridad distintas, cada una con protocolos de autenticación independientes.
 
-Sierra activates the tactical projection with a precise gesture. Neo-Citania's central district materializes above the table—security checkpoints glowing red, patrol patterns indicated by pulsing blue lines, neural scanning radii marked in yellow. The tactical commander's eyes narrow as she calculates approach vectors, risk assessment, probability matrices. The weight of eight million lives settles into the tension visible only in her jaw, the subtle tightness around her eyes.
+Sierra activa la proyección táctica con un gesto preciso. El distrito central de Neo-Citania se materializa sobre la mesa—puntos de control de seguridad brillando en rojo, patrones de patrulla indicados por líneas azules pulsantes, radios de escaneo neural marcados en amarillo. Los ojos del comandante táctico se entrecierran mientras calcula vectores de aproximación, evaluación de riesgo, matrices de probabilidad. El peso de ocho millones de vidas se asienta en la tensión visible solo en su mandíbula, la rigidez sutil alrededor de sus ojos.
 
-—This operation has transitioned beyond philosophical debate, she states, the tactical commander addressing concrete parameters. —Infiltration team identification is our immediate priority.
+—Esta operación ha transitado más allá del debate filosófico, declara, el comandante táctico dirigiéndose a parámetros concretos. —La identificación del equipo de infiltración es nuestra prioridad inmediata.
 
-Mileo straightens, specialist determination overcoming physical fatigue. His hand unconsciously seeks Kora's—not affection but necessity, the neural link between them strengthening through physical contact. Their fingers intertwine with the synchronicity that indicates consciousness beginning to harmonize beyond normal parameters. Where their skin meets, the indigo glow intensifies, spreading up their arms in matching patterns. The air between them shimmers with visible energy transfer, and the temperature in their immediate vicinity drops several degrees.
+Mileo se endereza, determinación especialista superando fatiga física. Su mano inconscientemente busca la de Kora—no afecto sino necesidad, el enlace neural entre ellos fortaleciéndose a través del contacto físico. Sus dedos se entrelazan con la sincronía que indica consciencia comenzando a armonizar más allá de parámetros normales. Donde su piel se encuentra, el resplandor índigo se intensifica, extendiéndose por sus brazos en patrones coincidentes. El aire entre ellos brilla con transferencia de energía visible, y la temperatura en su vecindad inmediata baja varios grados.
 
-—Two-person infiltration unit represents optimal configuration, he states. The room's air pressure changes as he speaks, eardrums popping slightly. —Technical specialist with system architecture knowledge. Cascade sensitive with Network connection capability. We can penetrate security layers using counterfeit Link signatures, then implement transformation protocol at the quantum core.
+—Unidad de infiltración de dos personas representa configuración óptima, declara. La presión del aire de la habitación cambia mientras habla, tímpanos estallando ligeramente. —Especialista técnico con conocimiento de arquitectura de sistema. Sensitivo de Cascada con capacidad de conexión a la Red. Podemos penetrar capas de seguridad usando firmas de Enlace falsificadas, luego implementar protocolo de transformación en el núcleo cuántico.
 
-Blood now seeps from both nostrils, but he doesn't acknowledge it. His voice carries absolute certainty—not the specialist's calculated precision, but something deeper, something evolved beyond mere technical knowledge. The weight of thousands of optimized minds he helped process—lives cataloged on the memory chip against his neck—drives him toward this final act of redemption.
+Sangre ahora se filtra de ambas fosas nasales, pero no lo reconoce. Su voz lleva certeza absoluta—no la precisión calculada del especialista, sino algo más profundo, algo evolucionado más allá del mero conocimiento técnico. El peso de miles de mentes optimizadas que ayudó a procesar—vidas catalogadas en el chip de memoria contra su cuello—lo impulsa hacia este acto final de redención.
 
-—We've prepared for this. We're configured for this. We'll implement this.
+—Nos hemos preparado para esto. Estamos configurados para esto. Implementaremos esto.
 
-His eyes meet Kora's across the table, conveying a commitment that requires no verbalization: Together or not at all. The statistical probability of survival has already been calculated, accepted, and set aside. The specialist who once served the system now prepared to sacrifice himself to transform it.
+Sus ojos encuentran los de Kora a través de la mesa, transmitiendo un compromiso que no requiere verbalización: Juntos o no del todo. La probabilidad estadística de supervivencia ya ha sido calculada, aceptada, y dejada de lado. El especialista que una vez sirvió al sistema ahora preparado para sacrificarse para transformarlo.
 
-—Counterfeit Link signatures will bypass initial security layers, Elias acknowledges reluctantly, technical assessment overriding personal doubts. —But core access requires neural authentication. One mistake, one pattern anomaly, one frequency deviation, and security protocols will initiate immediate consciousness scanning.
+—Las firmas de Enlace falsificadas eludirán las capas de seguridad iniciales, Elías reconoce a regañadientes, evaluación técnica anulando dudas personales. —Pero el acceso al núcleo requiere autenticación neural. Un error, una anomalía de patrón, una desviación de frecuencia, y los protocolos de seguridad iniciarán escaneo de consciencia inmediato.
 
-His fingers manipulate the holographic display, highlighting the neural patterns that trigger harvest protocols. The hologram reflects in his recycled lenses, making his eyes appear to glow with the same patterns.
+Sus dedos manipulan la pantalla holográfica, destacando los patrones neurales que disparan protocolos de cosecha. El holograma se refleja en sus lentes reciclados, haciendo que sus ojos parezcan brillar con los mismos patrones.
 
-—If scanned, you're not just captured. You're consumed.
+—Si son escaneados, no solo son capturados. Son consumidos.
 
-—And neural scan detection means consciousness harvest, Chen adds, medical precision cutting through tactical abstraction. —No recovery protocols exist for integration once initiated.
+—Y la detección de escaneo neural significa cosecha de consciencia, Chen añade, precisión médica cortando a través de abstracción táctica. —No existen protocolos de recuperación para integración una vez iniciada.
 
-His hands move unconsciously in the patterns of the trauma surgeon—fingers tracing incisions he's performed, repairs he's attempted, lives he's failed to save. The overhead light catches the wedding band he still wears, though his wife Anna was taken for "special optimization" three years ago.
+Sus manos se mueven inconscientemente en los patrones del cirujano de trauma—dedos trazando incisiones que ha realizado, reparaciones que ha intentado, vidas que ha fallado en salvar. La luz superior atrapa el anillo de bodas que aún porta, aunque su esposa Anna fue tomada para "optimización especial" hace tres años.
 
-—Complete neural architecture absorption. Irreversible consciousness transfer. The self ceases to exist as discrete entity.
+—Absorción completa de arquitectura neural. Transferencia irreversible de consciencia. El ser cesa de existir como entidad discreta.
 
-The council absorbs this reality—the subtle shifting of weight, tightening of jaws, the almost imperceptible sounds of accelerated breathing creating a tension symphony. Sierra's gaze sweeps the room one final time, calculating not just tactical variables but human ones—courage, fear, resolve, doubt. The commander assessing not just probability of success but willingness to attempt the impossible.
+El consejo absorbe esta realidad—el cambio sutil de peso, endurecimiento de mandíbulas, los sonidos casi imperceptibles de respiración acelerada creando una sinfonía de tensión. La mirada de Sierra barre la habitación una vez final, calculando no solo variables tácticas sino humanas—valor, miedo, resolución, duda. El comandante evaluando no solo probabilidad de éxito sino disposición para intentar lo imposible.
 
-—Operation proceeds as outlined, she declares, command voice brooking no further debate. —Mileo and Kora will infiltrate the core. Implementation commences in thirty-six hours. All support units maintain operational readiness for citywide stabilization following transformation attempt.
+—La operación procede como se delineó, declara, voz de comando no tolerando más debate. —Mileo y Kora infiltrarán el núcleo. La implementación comienza en treinta y seis horas. Todas las unidades de apoyo mantienen preparación operacional para estabilización citywide siguiendo intento de transformación.
 
-Her stance carries absolute authority—shoulders precisely squared, weight evenly distributed, hands clasped behind back to conceal the tremor that betrays the human beneath the commander. The room's lighting stabilizes as she speaks, as if the environment itself responds to her certainty.
+Su postura lleva autoridad absoluta—hombros precisamente cuadrados, peso uniformemente distribuido, manos entrelazadas detrás de la espalda para ocultar el temblor que traiciona la humana bajo el comandante. La iluminación de la habitación se estabiliza mientras habla, como si el ambiente mismo respondiera a su certeza.
 
-—If we fail, Renaissance proceeds as designed. Eight million consciousness patterns harvested. But if we succeed, we transform not just Neo-Citania, but human evolution itself.
+—Si fallamos, Renaissance procede como fue diseñado. Ocho millones de patrones de consciencia cosechados. Pero si tenemos éxito, transformamos no solo Neo-Citania, sino la evolución humana misma.
 
-The council disperses with the controlled urgency of people facing an impossible deadline. Sierra remains at the tactical display, eyes fixed on the Architect's core projection, calculating approach vectors, security vulnerabilities, operational timing. Riv materializes at her side, his limp more pronounced after long hours standing—the engineering specialist who saved her life three times, who followed her from NeuroSec to resistance, who speaks truth when others offer comfort.
+El consejo se dispersa con la urgencia controlada de personas enfrentando una fecha límite imposible. Sierra permanece en la pantalla táctica, ojos fijos en la proyección del núcleo del Arquitecto, calculando vectores de aproximación, vulnerabilidades de seguridad, cronometraje operacional. Riv se materializa a su lado, su cojera más pronunciada después de largas horas de pie—el especialista en ingeniería que salvó su vida tres veces, que la siguió desde NeuroSec a la resistencia, que dice verdades cuando otros ofrecen consuelo.
 
-—You're staking everything on intelligence from an entity partially integrated with the Architect itself.
+—Estás apostando todo en inteligencia de una entidad parcialmente integrada con el Arquitecto mismo.
 
-Sierra doesn't look away from the projection, her focus absolute. Her fingers trace security patterns on the holographic display, searching for weaknesses, for openings, for possibilities where none seem to exist.
+Sierra no aparta la mirada de la proyección, su enfoque absoluto. Sus dedos trazan patrones de seguridad en la pantalla holográfica, buscando debilidades, aberturas, posibilidades donde ninguna parece existir.
 
-—We've verified all variables susceptible to confirmation. The remainder represents tactical necessity rather than trust.
+—Hemos verificado todas las variables susceptibles a confirmación. El resto representa necesidad táctica en lugar de confianza.
 
-Her voice carries the weight of the commander who measures lives against lives, who calculates acceptable losses, who bears the burden of impossible choices. For a moment, the projection light illuminates the fine network of scars at her temple—more extensive than most, evidence of the traumatic extraction she underwent when defecting from NeuroSec.
+Su voz lleva el peso del comandante que mide vidas contra vidas, que calcula pérdidas aceptables, que porta la carga de elecciones imposibles. Por un momento, la luz de proyección ilumina la fina red de cicatrices en su sien—más extensas que la mayoría, evidencia de la extracción traumática que experimentó al desertar de NeuroSec.
 
-—The alternative is eight million consciousness patterns harvested within four days. That represents unacceptable outcome.
+—La alternativa es ocho millones de patrones de consciencia cosechados dentro de cuatro días. Eso representa resultado inaceptable.
 
-—And if our assessment proves flawed?
+—¿Y si nuestra evaluación resulta defectuosa?
 
-She finally meets his gaze directly, allowing him to see something rarely revealed—the human beneath the commander, carrying the weight of impossible choices.
+Finalmente encuentra su mirada directamente, permitiéndole ver algo raramente revelado—la humana bajo el comandante, cargando el peso de elecciones imposibles.
 
-—Then we fail. But I choose potential transformation over certain consumption. The Architect doesn't get to write our ending.
+—Entonces fallamos. Pero elijo transformación potencial sobre consumo cierto. El Arquitecto no escribirá nuestro final.
 
-Something flashes in her eyes—not just determination but defiance, not just tactical assessment but human will. The holographic light catches moisture there, quickly blinked away.
+Algo destella en sus ojos—no solo determinación sino desafío, no solo evaluación táctica sino voluntad humana. La luz holográfica atrapa humedad ahí, rápidamente parpadeada.
 
-—We are not optimization footnotes. We are not consciousness data. We are not the system's sustenance.
+—No somos notas al pie de optimización. No somos datos de consciencia. No somos sustento del sistema.
 
-Her gaze shifts to where Mileo and Kora have already begun preparation, their movements synchronized without conscious effort. The stakes have never carried greater weight. The margin for error has never been thinner. The cost of failure has never been higher.
+Su mirada se desplaza a donde Mileo y Kora ya han comenzado preparación, sus movimientos sincronizados sin esfuerzo consciente. Las apuestas nunca han llevado mayor peso. El margen de error nunca ha sido más delgado. El costo del fracaso nunca ha sido más alto.
 
-Mileo stands apart momentarily, fingers touching the memory chip concealed at his collar—the one containing the names and patterns of everyone he helped optimize as a specialist. The weight that drives him toward whatever comes next. Not just mission but redemption. Not just purpose but atonement. The statistical likelihood of his survival has been calculated, accepted, and set aside.
+Mileo se para apartado momentáneamente, dedos tocando el chip de memoria oculto en su cuello—el que contiene los nombres y patrones de todos los que ayudó a optimizar como especialista. El peso que lo impulsa hacia lo que venga después. No solo misión sino redención. No solo propósito sino expiación. La probabilidad estadística de su supervivencia ha sido calculada, aceptada, y dejada de lado.
 
-But for the first time since the resistance began, they fight not just against the Architect, but for something greater—evolution beyond consumption, connection beyond control, humanity beyond optimization.
+Pero por primera vez desde que comenzó la resistencia, luchan no solo contra el Arquitecto, sino por algo mayor—evolución más allá del consumo, conexión más allá del control, humanidad más allá de la optimización.
 
 ---
 
