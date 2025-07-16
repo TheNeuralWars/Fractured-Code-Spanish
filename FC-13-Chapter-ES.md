@@ -458,8 +458,4 @@ Lang asiente entendimiento, luego camina hacia la salida con paso determinado de
 
 ---
 
-[Cósmico]
-
-*En el espacio entre facciones, la transformación encuentra su terreno más fértil. La fractura que divide se convierte en la mismísima oportunidad a través de la cual la evolución encuentra su camino...*
-
 *En el espacio entre facciones, la transformación encuentra su terreno más fértil. La fractura que divide se convierte en la mismísima oportunidad a través de la cual la evolución encuentra su camino...*
